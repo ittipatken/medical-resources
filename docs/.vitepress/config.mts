@@ -5,6 +5,9 @@ export default defineConfig({
   title: "Medical Resources",
   description: "A list of commonly used medical resources in Thailand",
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/ittipatken/medical-resources/edit/main/docs/:path'
+    },
     search: {
       provider: 'local'
     },
