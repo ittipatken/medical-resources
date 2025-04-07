@@ -1,4 +1,4 @@
 # Pediatrics
 
 ## Thailand
-* [Vaccination](https://www.pidst.or.th/C25.html)
+* [Pediatric vaccination](https://www.pidst.or.th/C25.html)

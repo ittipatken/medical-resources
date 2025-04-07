@@ -6,4 +6,4 @@
 * [Hepatitis C](https://www.gastrothai.net/source/content-file/content-file-id-256.pdf)
 * [Dengue hemorrhagic fever](https://dmta.dms.go.th/manualdmta/MN_Emergency/CPG/Final%20Dengue%20CPG%202023.pdf)
 * [Urinary tract infection (UTI)](https://idthai.org/Contents/Views/?d=!17!9!!1045!)
-* [Vaccination](https://idthai.org/Contents/Views/?d=!17!9!!1046!)
+* [Adult and elderly vaccination](https://idthai.org/Contents/Views/?d=!17!9!!1046!)
