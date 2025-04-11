@@ -46,6 +46,7 @@ export default defineConfig({
               { text: 'Cardiology', link: '/cardiology' },
               { text: 'Endocrinology', link: '/endocrinology' },
               { text: 'Gastroenterology', link: '/gastroenterology' },
+              { text: 'Genetics', link: '/genetics' },
               { text: 'Hematology', link: '/hematology' },
               { text: 'Infectious Disease', link: '/infectious-disease' },
               { text: 'Nephrology', link: '/nephrology' },
