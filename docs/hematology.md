@@ -3,8 +3,7 @@
 ## Thailand
 * [Thai Society of Hematology](https://www.tsh.or.th/Activity/Detail/346)
     * Lymphoma
-    * Anemia
-    * Thalassemia
+    * Anemia and Thalassemia
     * Adult acute leukemia (AL)
     * Multiple myeloma (MM)
     * Myeloproliferative neoplasms (MPN)
