@@ -1,3 +1,3 @@
 # What is this?
 
-A collaboratively curated collection of medical resources mainly based on Thailand.
+A collaboratively curated collection of medical resources mainly based in Thailand.
