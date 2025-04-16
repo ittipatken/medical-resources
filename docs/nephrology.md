@@ -26,3 +26,4 @@
     * Nephrotic syndrome in children
     * Transplant candidate
     * Transplant recipient
+* [The Extracorporeal Treatments in Poisoning Workgroup (EXTRIP)](https://www.extrip-workgroup.org/recommendations)
