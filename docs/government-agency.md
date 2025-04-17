@@ -9,3 +9,7 @@
     * [คู่มือบัญชียาหลักแห่งชาติด้านสมุนไพร](https://herbal.fda.moph.go.th/drug-list/category/ann-drug02)
 * [Medical laws](https://www.tmc.or.th/statute.php)
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
+
+## USA
+* [Food and Drug Administration (FDA) Approved Drugs](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)
+* [Centers for Disease Control and Prevention (CDC) Health Topics](https://www.cdc.gov/health-topics.html)
