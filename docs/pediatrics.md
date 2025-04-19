@@ -2,6 +2,15 @@
 
 ## Thailand
 * [Pediatric vaccination](https://www.pidst.or.th/C25.html)
+* [Thai Society of Pediatric Gastroenterology and Hepatology (TSPGH)](https://pthaigastro.org/Guideline.aspx)
+    * Non-alcoholic fatty liver disease (NAFLD)
+    * Diarrhea
+    * Neonatal cholestatic jaundice
+    * Infantile gastroesophageal reflux (GER)
+    * Chronic hepatitis B and C
+    * Gastroesophageal reflux disease (GERD)
+
+
 * [Pediatric Society of Thailand](https://www.thaipediatrics.org/?p=700)
     * Adolescents with depression
     * Asthma
@@ -17,7 +26,7 @@
     * Gastroesophageal reflux disease (GERD)
     * Neonatal cholestasis
     * Acute diarrhea
-    * Metabolic dysfunction–associated steatotic liver disease (MASLD)
+    * Non-alcoholic fatty liver disease (NAFLD)
     * Functional constipation
     * Anemia
     * Transfusion

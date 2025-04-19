@@ -60,8 +60,9 @@ export default defineConfig({
           { text: 'Psychiatry', link: '/psychiatry' },
           { text: 'Pediatrics', link: '/pediatrics' },
           // { text: 'Obstetrics and Gynecology', link: '/obstetrics-gynecology' },
+          { text: 'Otolaryngology', link: '/otolaryngology' },
           // { text: 'Palliative Care', link: '/palliative-care' },
-          // { text: 'Emergency Medicine', link: '/emergency-medicine' },
+          { text: 'Emergency Medicine', link: '/emergency-medicine' },
         ]
       }
     ],
