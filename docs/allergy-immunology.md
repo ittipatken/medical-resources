@@ -1,4 +1,10 @@
 # Allergy and Immunology
 
 ## Thailand
-* [Anaphylaxis](https://www.allergy.or.th/2016/pdf/Thai_CPG_Anaphylaxis_2017_Full_version.pdf)
+* [The Allergy, Asthma & Immunology Association of Thailand (AAIAT)](https://allergy.or.th/2016/resources_guideline.php)
+    * Hereditary angioedema (HAE)
+    * Asthma
+    * Allergy
+    * Anaphylaxis
+    * Urticaria
+    * Atopic dermatitis
