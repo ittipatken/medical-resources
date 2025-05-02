@@ -1,4 +1,4 @@
-## Otolaryngology
+# Otolaryngology
 
 ## Thailand
 * [Thai Rhinologic Society (TRS)](http://www.thairhinologists.org/2017/guidelines/)
