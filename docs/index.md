@@ -8,8 +8,11 @@ hero:
   tagline: Maintained by a medical student and communities
   actions:
     - theme: brand
-      text: Guidelines
+      text: Introduction
       link: /what-is-this
+    - theme: alt
+      text: Guidelines
+      link: /allergy-immunology
 
 features:
   - title: 📚 Extensive Resource Database
