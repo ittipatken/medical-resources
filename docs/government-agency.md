@@ -12,6 +12,9 @@
 * [Medical laws](https://www.tmc.or.th/statute.php)
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
 
+## International
+* [World Health Organization (WHO) guidelines](https://www.who.int/publications/i?publishingoffices=c09761c0-ab8e-4cfa-9744-99509c4d306b)
+
 ## USA
 * [Food and Drug Administration (FDA) Approved Drugs](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)
 * [Centers for Disease Control and Prevention (CDC) Health Topics](https://www.cdc.gov/health-topics.html)
