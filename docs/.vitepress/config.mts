@@ -36,6 +36,7 @@ export default defineConfig({
           { text: 'Dietetics', link: '/dietetics' },
           { text: 'Government Agency', link: '/government-agency' },
           { text: 'Genetics', link: '/genetics' },
+          { text: 'Microbiology', link: '/microbiology' },
         ]
       },
       {
