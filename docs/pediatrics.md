@@ -9,8 +9,13 @@
     * Infantile gastroesophageal reflux (GER)
     * Chronic hepatitis B and C
     * Gastroesophageal reflux disease (GERD)
-
-
+* [Thai Society for Pediatric Endocrinology (TSPE)](https://thaipedendo.org/management-guidelines/)
+    * Diabetes mellitus (DM)
+    * Diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state (HHS)
+    * Vitamin D deficiency
+    * Congenital hypothyroidism
+    * Recombinant growth hormone (rhGH)
+    * [Growth and BMI charts](https://thaipedendo.org/growth-and-bmi-charts/)
 * [Pediatric Society of Thailand](https://www.thaipediatrics.org/?p=700)
     * Adolescents with depression
     * Asthma
