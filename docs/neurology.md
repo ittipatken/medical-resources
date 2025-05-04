@@ -5,6 +5,13 @@
 * [Migraine](http://neurothai.org/content.php?id=495)
 * [Epilepsy](http://thaiepilepsysociety.com/clinical-practice-guidelines-for-epilepsy-2564/)
 * [Dementia](https://w1.med.cmu.ac.th/family/knowledge/for-doctor/guideline/5042)
+* [Ischemic stroke](https://rbpho.moph.go.th/upload-file/doc/files/16062020-011313-8291.pdf)
+* [Neurological Institute of Thailand](https://nit.go.th/cpg_cnpg)
+    * Stroke management
+    * Stroke unit organization
+    * Epilepsy
+    * Immunomodulating therapy
+    * Pituitary tumor
 
 
 ## International
