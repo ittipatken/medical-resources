@@ -9,3 +9,6 @@
     * Hepatitis B
     * Hepatitis C
     * Esophagogastric variceal hemorrhage (EGVH)
+
+## International
+* [Rome IV Criteria](https://theromefoundation.org/rome-iv/rome-iv-criteria/)
