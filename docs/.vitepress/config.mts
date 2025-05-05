@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'General',
         items: [
+          { text: 'Classification', link: '/classification' },
           { text: 'Dietetics', link: '/dietetics' },
           { text: 'Government Agency', link: '/government-agency' },
           { text: 'Genetics', link: '/genetics' },
