@@ -11,4 +11,4 @@
     * Esophagogastric variceal hemorrhage (EGVH)
 
 ## International
-* [Rome IV Criteria](https://theromefoundation.org/rome-iv/rome-iv-criteria/)
+* [Rome IV criteria](https://theromefoundation.org/rome-iv/rome-iv-criteria/)
