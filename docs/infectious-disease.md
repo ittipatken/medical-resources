@@ -8,6 +8,8 @@
 * [Urinary tract infection (UTI)](https://idthai.org/Contents/Views/?d=!17!9!!1045!)
 * [Adult and elderly vaccination](https://idthai.org/Contents/Views/?d=!17!9!!1046!)
 * [Post-exposure rabies prophylaxis](https://saovabha.org/service_saovabha/Rabies-knowledge-for-healthcare-personnel)
+* [National antimicrobial resistant surveillance, Thailand (NARST)](https://narst.dmsc.moph.go.th/)
+    * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram) 
 
 ## USA
 * [Infectious Diseases Society of America](https://www.idsociety.org/practice-guideline/practice-guidelines#/+/0/date_na_dt/desc/)
