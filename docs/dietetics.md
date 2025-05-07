@@ -6,5 +6,5 @@
 * [ตำรับอาหาร สำนักโภชนาการ กรมอนามัย](https://nutrition2.anamai.moph.go.th/th/book?textSearch=&category=1483)
 * [ตำรับอาหาร Ajinomoto Foundation](https://nutrition.ajinomotofoundation.or.th/th/recipebyregion)
 
-## Canada
-* [Canada's food guide](https://food-guide.canada.ca/en/)
+## International
+* [Food and Agriculture Organization (FAO) of the United Nations dietary guidelines](https://www.fao.org/nutrition/education/food-dietary-guidelines/en/)
