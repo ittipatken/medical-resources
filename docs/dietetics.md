@@ -8,3 +8,4 @@
 
 ## International
 * [Food and Agriculture Organization (FAO) of the United Nations dietary guidelines](https://www.fao.org/nutrition/education/food-dietary-guidelines/en/)
+* [Open Food Facts](https://th-en.openfoodfacts.org)
