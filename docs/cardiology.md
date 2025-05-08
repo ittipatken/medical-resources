@@ -13,6 +13,7 @@
 
 ## USA
 * [American Heart Association (AHA)](https://professional.heart.org/en/guidelines-statements)
+* [Validated blood pressure Device Listing (VDL)](https://www.validatebp.org/)
 
 ## Europe
 * [European Society of Cardiology (ESC)](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines)
