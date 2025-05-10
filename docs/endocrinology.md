@@ -11,3 +11,10 @@
 
 ## USA
 * [Diabetes mellitus (DM)](https://professional.diabetes.org/standards-of-care)
+* [American Thyroid Association (ATA)](https://www.thyroid.org/professionals/ata-professional-guidelines/)
+    * Anaplastic thyroid cancer
+    * Thyroid disease during pregnancy and the postpartum
+    * Hyperthyroidism / thyrotoxicosis
+    * thyroid nodules and differentiated thyroid cancer
+    * Medullary thyroid carcinoma
+    * Hypothyroidism
