@@ -37,11 +37,20 @@
 
 ## [Levine (heart murmur) grading scale](https://www.acpjournals.org/doi/10.7326/0003-4819-6-11-1371)
 
-| Grade | Description                                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------------------------------- |
-| 1     | Only audible on listening carefully for some time.                                                               |
-| 2     | Faint but immediately audible on placing the stethoscope on the chest.                                           |
-| 3     | Loud, readily audible but with no thrill.                                                               |
-| 4     | Loud with a thrill.                                                                                     |
-| 5     | Loud with a thrill. So loud that it is audible with only the rim of the stethoscope touching the chest. |
-| 6     | Loud with a palpable thrill. Audible with the stethoscope not touching the chest but lifted just off it.         |
+| Grade | Description                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| 1     | Only audible on listening carefully for some time.                                                       |
+| 2     | Faint but immediately audible on placing the stethoscope on the chest.                                   |
+| 3     | Loud, readily audible but with no thrill.                                                                |
+| 4     | Loud with a thrill.                                                                                      |
+| 5     | Loud with a thrill. So loud that it is audible with only the rim of the stethoscope touching the chest.  |
+| 6     | Loud with a palpable thrill. Audible with the stethoscope not touching the chest but lifted just off it. |
+
+## Pitting edema scale
+
+| Grade | Description                                      |
+| ----- | ------------------------------------------------ |
+| 1+    | < 2 mm depression that disappears rapidly        |
+| 2+    | 2-4 mm depression that rebounds in a few seconds |
+| 3+    | 4-6 mm depression that rebounds in 10-12 s       |
+| 4+    | 6-8 mm depression that rebounds in > 20 s        |
