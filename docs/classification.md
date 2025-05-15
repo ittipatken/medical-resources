@@ -11,12 +11,22 @@
 
 ## [New York Heart Association (NYHA) functional classification](https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure)
 
-| Class | Patient Symptoms                                                                                                                                              |
+| Class | Description                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | I     | _No limitation_ of physical activity. Ordinary physical activity does not cause undue fatigue, palpitation or shortness of breath.                            |
 | II    | _Slight limitation_ of physical activity. Comfortable at rest. Ordinary physical activity results in fatigue, palpitation, shortness of breath or chest pain. |
 | III   | _Marked limitation_ of physical activity. Comfortable at rest. Less than ordinary activity causes fatigue, palpitation, shortness of breath or chest pain.    |
 | IV    | Symptoms of heart failure _at rest_. Any physical activity causes further discomfort.                                                                         |
+
+## [Modified Medical Research Council (mMRC) dyspnea scale]()
+
+| Grade | Description                                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0     | Not troubled with breathlessness except with _strenuous exercise_                                                                                   |
+| 1     | Troubled by shortness of breath when _hurrying on the level or walking up a slight hill_                                                            |
+| 2     | _Walks slower_ than people of the same age on the level because of breathlessness or has to _stop for breath when walking_ at own pace on the level |
+| 3     | _Stops for breath after walking about 100 yards (91 m)_ or after a few minutes on the level                                                         |
+| 4     | Too breathless to _leave the house_ or breathless when _dressing or undressing_                                                                     |
 
 ## [Oxford Community Stroke Project (OCSP) classification](<https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext>)
 
