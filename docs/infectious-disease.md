@@ -10,4 +10,4 @@
 * [Post-exposure rabies prophylaxis](https://saovabha.org/service_saovabha/Rabies-knowledge-for-healthcare-personnel)
 
 ## USA
-* [Infectious Diseases Society of America](https://www.idsociety.org/practice-guideline/practice-guidelines#/+/0/date_na_dt/desc/)
+* [Infectious Diseases Society of America (IDSA)](https://www.idsociety.org/practice-guideline/practice-guidelines#/+/0/date_na_dt/desc/)
