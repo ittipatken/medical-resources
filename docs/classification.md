@@ -43,7 +43,7 @@
 2. Cardioembolism
 3. Small-vessel occlusion
 4. Stroke of other determined etiology
-5. Stroke of undetermined etiology.
+5. Stroke of undetermined etiology
 
 ## [Levine (heart murmur) grading scale](https://www.acpjournals.org/doi/10.7326/0003-4819-6-11-1371)
 
