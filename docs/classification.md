@@ -18,7 +18,7 @@
 | III   | _Marked limitation_ of physical activity. Comfortable at rest. Less than ordinary activity causes fatigue, palpitation, shortness of breath or chest pain.    |
 | IV    | Symptoms of heart failure _at rest_. Any physical activity causes further discomfort.                                                                         |
 
-## [Modified Medical Research Council (mMRC) dyspnea scale]()
+## [Modified Medical Research Council (mMRC) dyspnea scale](<https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext>)
 
 | Grade | Description                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,3 +64,26 @@
 | 2+    | 2-4 mm depression that rebounds in a few seconds |
 | 3+    | 4-6 mm depression that rebounds in 10-12 s       |
 | 4+    | 6-8 mm depression that rebounds in > 20 s        |
+
+## Medical Research Council (MRC) scale for muscle strength
+
+| Grade | Description                                            |
+| ----- | ------------------------------------------------------ |
+| 0     | No contraction                                         |
+| 1     | Flicker or trace of contraction                        |
+| 2     | Full range of active movement, with gravity eliminated |
+| 3     | Active movement against gravity                        |
+| 4     | Active movement against gravity and resistance         |
+| 5     | Normal power                                           |
+
+> Subdivisions of grade 4 are often necessary. Grade 4-, 4, and 4+ may be used to indicate movement against slight, moderate, and strong resistance, respectively.
+
+## [Eastern Cooperative Oncology Group (ECOG) performance status](https://journals.lww.com/amjclinicaloncology/abstract/1982/12000/toxicity_and_response_criteria_of_the_eastern.14.aspx)
+
+| Grade | Description                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| 0     | Fully active; no performance restrictions.                                                               |
+| 1     | Strenuous physical activity restricted; fully ambulatory and able to carry out light work.               |
+| 2     | Capable of all self-care but unable to carry out any work activities. Up and about >50% of waking hours. |
+| 3     | Capable of only limited self-care; confined to bed or chair >50% of waking hours.                        |
+| 4     | Completely disabled; cannot carry out any self-care; totally confined to bed or chair.                   |
