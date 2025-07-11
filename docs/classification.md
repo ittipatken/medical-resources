@@ -18,7 +18,7 @@
 | III   | _Marked limitation_ of physical activity. Comfortable at rest. Less than ordinary activity causes fatigue, palpitation, shortness of breath or chest pain.    |
 | IV    | Symptoms of heart failure _at rest_. Any physical activity causes further discomfort.                                                                         |
 
-## [Modified Medical Research Council (mMRC) dyspnea scale](<https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext>)
+## [Modified Medical Research Council (mMRC) dyspnea scale](https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext)
 
 | Grade | Description                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 | 3     | _Stops for breath after walking about 100 yards (91 m)_ or after a few minutes on the level                                                         |
 | 4     | Too breathless to _leave the house_ or breathless when _dressing or undressing_                                                                     |
 
-## [Oxford Community Stroke Project (OCSP) classification](<https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext>)
+## [Oxford Community Stroke Project (OCSP) classification](https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext)
 
 | Class                                       | Description                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
