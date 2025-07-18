@@ -87,3 +87,13 @@
 | 2     | Capable of all self-care but unable to carry out any work activities. Up and about >50% of waking hours. |
 | 3     | Capable of only limited self-care; confined to bed or chair >50% of waking hours.                        |
 | 4     | Completely disabled; cannot carry out any self-care; totally confined to bed or chair.                   |
+
+## [Murray and Washington's grading system (sputum)](https://pubmed.ncbi.nlm.nih.gov/1127999/)
+
+| Group | Epithelial cells per low power (×10) field | White cells per low power (×10) field |
+| ----- | ------------------------------------------ | ------------------------------------- |
+| 1     | ≥ 25                                       | < 10                                  |
+| 2     | ≥ 25                                       | 10-25                                 |
+| 3     | ≥ 25                                       | ≥ 25                                  |
+| 4     | 10-25                                      | ≥ 25                                  |
+| 5     | < 10                                       | ≥ 25                                  |
