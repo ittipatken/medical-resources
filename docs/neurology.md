@@ -18,3 +18,11 @@
 * [International Classification of Sleep Disorders (ICSD)](https://aasm.org/clinical-resources/international-classification-sleep-disorders/)
 * [International Classification of Headache Disorders-3 (ICHD-3)](https://ichd-3.org/)
 * [International League Against Epilepsy (ILAE)](https://www.ilae.org/guidelines)
+
+## Clinical Trials
+* [Clopidogrel in High-risk Patients With Acute Non-disabling Cerebrovascular Events (CHANCE)](https://www.nejm.org/doi/full/10.1056/NEJMoa1215340)
+* [Stenting vs. Aggressive Medical Management for Preventing Recurrent Stroke in Intracranial Stenosis (SAMMPRIS)](https://www.nejm.org/doi/full/10.1056/NEJMoa1105335)
+* [Clopidogrel and Aspirin for Reduction of Emboli in Symptomatic Carotid Stenosis (CARESS)](https://doi.org/10.1161/01.CIR.0000163561.90680.1C)
+* [Platelet-Oriented Inhibition in New TIA and Minor Ischemic Stroke (POINT)](https://www.nejm.org/doi/full/10.1056/NEJMoa1800410)
+* [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-1](https://www.ahajournals.org/doi/10.1161/01.STR.0000157667.06542.b7)
+* [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-2](https://www.ahajournals.org/doi/10.1161/STROKEAHA.110.609370)
