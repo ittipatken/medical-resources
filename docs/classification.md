@@ -18,7 +18,7 @@
 | III   | _Marked limitation_ of physical activity. Comfortable at rest. Less than ordinary activity causes fatigue, palpitation, shortness of breath or chest pain.    |
 | IV    | Symptoms of heart failure _at rest_. Any physical activity causes further discomfort.                                                                         |
 
-## [Modified Medical Research Council (mMRC) dyspnea scale](https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext)
+## [Modified Medical Research Council (mMRC) dyspnea scale](<https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext>)
 
 | Grade | Description                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 | 3     | _Stops for breath after walking about 100 yards (91 m)_ or after a few minutes on the level                                                         |
 | 4     | Too breathless to _leave the house_ or breathless when _dressing or undressing_                                                                     |
 
-## [Oxford Community Stroke Project (OCSP) classification](https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext)
+## [Oxford Community Stroke Project (OCSP) classification](<https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext>)
 
 | Class                                       | Description                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -97,3 +97,25 @@
 | 3     | ≥ 25                                       | ≥ 25                                  |
 | 4     | 10-25                                      | ≥ 25                                  |
 | 5     | < 10                                       | ≥ 25                                  |
+
+## [Los Angeles (LA) grading of esophagitis](https://www.sciencedirect.com/science/article/pii/S0016508596003320)
+
+| Grade | Description                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------- |
+| A     | One or more mucosal breaks < 5 mm in maximal length                                                             |
+| B     | One or more mucosal breaks > 5mm, but without continuity across mucosal folds                                   |
+| C     | Mucosal breaks continuous between ≥ 2 mucosal folds but involving less than 75% of the esophageal circumference |
+| D     | Mucosal breaks involving more than 75% of esophageal circumference                                              |
+
+## [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
+* Acute hemorrhage
+    * Forrest Ia (spurting hemorrhage)
+    * Forrest Ib (Oozing hemorrhage)
+* Signs of recent hemorrhage
+    * Forrest IIa (non-bleeding visible vessel)
+    * Forrest IIb (adherent clot)
+    * Forrest IIc (flat pigmented hematin (coffee ground base) on ulcer base)
+* Lesions without active bleeding
+    * Forrest III (lesions without signs of recent hemorrhage or fibrin-covered clean ulcer base)
+
+## [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
