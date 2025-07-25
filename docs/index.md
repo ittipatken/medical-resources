@@ -11,6 +11,9 @@ hero:
       text: Introduction
       link: /what-is-this
     - theme: alt
+      text: Classification
+      link: /classification
+    - theme: alt
       text: Guidelines
       link: /allergy-immunology
 
@@ -22,4 +25,3 @@ features:
   - title: 🔄 Updated Regularly
     details: Stay up-to-date with the latest medical guidelines, tools, and references to ensure you're always informed.
 ---
-
