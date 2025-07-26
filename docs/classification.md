@@ -110,12 +110,14 @@
 ## [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
 * Acute hemorrhage
     * Forrest Ia (spurting hemorrhage)
-    * Forrest Ib (Oozing hemorrhage)
+    * Forrest Ib (oozing hemorrhage)
 * Signs of recent hemorrhage
     * Forrest IIa (non-bleeding visible vessel)
     * Forrest IIb (adherent clot)
     * Forrest IIc (flat pigmented hematin (coffee ground base) on ulcer base)
 * Lesions without active bleeding
     * Forrest III (lesions without signs of recent hemorrhage or fibrin-covered clean ulcer base)
+
+> Forrest Ia, Ib, and IIa are high-risk lesions, while Forrest IIb is an intermediate- to high-risk lesion.
 
 ## [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
