@@ -13,6 +13,8 @@
     * Immunomodulating therapy
     * Pituitary tumor
 
+## USA
+* [NIH Stroke Scale (NIHSS)](https://www.ninds.nih.gov/health-information/stroke/assess-and-treat/nih-stroke-scale)
 
 ## International
 * [International Classification of Sleep Disorders (ICSD)](https://aasm.org/clinical-resources/international-classification-sleep-disorders/)
