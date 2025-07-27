@@ -108,6 +108,7 @@
 | D     | Mucosal breaks involving more than 75% of esophageal circumference                                              |
 
 ## [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
+
 * Acute hemorrhage
     * Forrest Ia (spurting hemorrhage)
     * Forrest Ib (oozing hemorrhage)
@@ -121,3 +122,11 @@
 > Forrest Ia, Ib, and IIa are high-risk lesions, while Forrest IIb is an intermediate- to high-risk lesion.
 
 ## [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
+
+Definition of diagnosis of acute pancreatitis requires two of the following three features:
+1. Abdominal pain consistent with acute pancreatitis (acute onset of a persistent, severe, epigastric pain often radiating to the back)
+2. Serum lipase activity (or amylase activity) at least 3 times greater than the upper limit of normal
+3. Characteristic findings of acute pancreatitis on contrast-enhanced computed tomography (CECT) and less commonly magnetic resonance imaging (MRI) or transabdominal ultrasonography
+
+> * If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
+> * If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
