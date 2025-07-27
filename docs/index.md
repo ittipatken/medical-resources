@@ -11,8 +11,8 @@ hero:
       text: Introduction
       link: /what-is-this
     - theme: alt
-      text: Classification
-      link: /classification
+      text: Criteria
+      link: /criteria
     - theme: alt
       text: Guidelines
       link: /allergy-immunology

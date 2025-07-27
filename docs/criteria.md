@@ -1,4 +1,4 @@
-# Classification
+# Criteria
 
 ## [Canadian Cardiovascular Society (CCS) grading of angina pectoris](https://ccs.ca/wp-content/uploads/2020/12/Ang_Gui_1976.pdf)
 
