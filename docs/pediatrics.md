@@ -18,7 +18,7 @@
     * [Growth and BMI charts](https://thaipedendo.org/growth-and-bmi-charts/)
 * [Developmental Surveillance and Promotion Manual (DSPM)](https://multimedia.anamai.moph.go.th/ebooks/dspm/)
 * [Developmental Assessment For Intervention Manual (DAIM)](https://multimedia.anamai.moph.go.th/ebooks/daim/)
-* [สมุดบันทึกสุขภาพ 2564](https://9yang.anamai.moph.go.th/wp-content/uploads/2021/04/%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81-2564_%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C.pdf)
+* [สมุดบันทึกสุขภาพ 2568](https://multimedia.anamai.moph.go.th/ebooks/maternal-and-child-health-handbook-2568/)
 * [Pediatric Society of Thailand](https://www.thaipediatrics.org/?p=700)
     * Adolescents with depression
     * Asthma
