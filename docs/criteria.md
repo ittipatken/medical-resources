@@ -88,6 +88,22 @@
 | 3     | Capable of only limited self-care; confined to bed or chair >50% of waking hours.                        |
 | 4     | Completely disabled; cannot carry out any self-care; totally confined to bed or chair.                   |
 
+## [Karnofsky performance status (KPS) scale](<https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(194811)1:4%3C634::AID-CNCR2820010410%3E3.0.CO;2-L>)
+
+| Definition                                                                                                          | %   | Criteria                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------- |
+| Able to carry on normal activity and to work. No special care is needed.                                            | 100 | Normal; no complaints; no evidence of disease                                |
+|                                                                                                                     | 90  | Able to carry on normal activity; minor signs or symptoms of disease.        |
+|                                                                                                                     | 80  | Normal activity with effort; some signs or symptoms of disease.              |
+| Unable to work. Able to live at home, care for most personal needs. A varying amount of assistance is needed.       | 70  | Cares for self. Unable to carry on normal activity or to do active work.     |
+|                                                                                                                     | 60  | Requires occasional assistance, but is able to care for most of his needs.   |
+|                                                                                                                     | 50  | Requires considerable assistance and frequent medical care.                  |
+| Unable to care for self. Requires equivalent of institutional or hospital care. Disease may be progressing rapidly. | 40  | Disabled; requires special care and assistance.                              |
+|                                                                                                                     | 30  | Severely disabled; hospitalisation is indicated although death not imminent. |
+|                                                                                                                     | 20  | Very sick; hospitalisation necessary; active supportive treatment necessary. |
+|                                                                                                                     | 10  | Moribund; fatal processes progressing rapidly.                               |
+|                                                                                                                     | 0   | Dead.                                                                        |
+
 ## [Murray and Washington's grading system (sputum)](https://pubmed.ncbi.nlm.nih.gov/1127999/)
 
 | Group | Epithelial cells per low power (×10) field | White cells per low power (×10) field |
@@ -109,24 +125,25 @@
 
 ## [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
 
-* Acute hemorrhage
-    * Forrest Ia (spurting hemorrhage)
-    * Forrest Ib (oozing hemorrhage)
-* Signs of recent hemorrhage
-    * Forrest IIa (non-bleeding visible vessel)
-    * Forrest IIb (adherent clot)
-    * Forrest IIc (flat pigmented hematin (coffee ground base) on ulcer base)
-* Lesions without active bleeding
-    * Forrest III (lesions without signs of recent hemorrhage or fibrin-covered clean ulcer base)
+- Acute hemorrhage
+  - Forrest Ia (spurting hemorrhage)
+  - Forrest Ib (oozing hemorrhage)
+- Signs of recent hemorrhage
+  - Forrest IIa (non-bleeding visible vessel)
+  - Forrest IIb (adherent clot)
+  - Forrest IIc (flat pigmented hematin (coffee ground base) on ulcer base)
+- Lesions without active bleeding
+  - Forrest III (lesions without signs of recent hemorrhage or fibrin-covered clean ulcer base)
 
 > Forrest Ia, Ib, and IIa are high-risk lesions, while Forrest IIb is an intermediate- to high-risk lesion.
 
 ## [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
 
 Definition of diagnosis of acute pancreatitis requires two of the following three features:
+
 1. Abdominal pain consistent with acute pancreatitis (acute onset of a persistent, severe, epigastric pain often radiating to the back)
 2. Serum lipase activity (or amylase activity) at least 3 times greater than the upper limit of normal
 3. Characteristic findings of acute pancreatitis on contrast-enhanced computed tomography (CECT) and less commonly magnetic resonance imaging (MRI) or transabdominal ultrasonography
 
-> * If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
-> * If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
+> - If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
+> - If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
