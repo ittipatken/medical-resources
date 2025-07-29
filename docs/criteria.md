@@ -37,7 +37,7 @@
 | Lacunar infarct (LACI)                      | Small lacunar infarct in the basal ganglia or the pons                                               |
 | Posterior circulation infarct (POCI)        | Associated with the brainstem, cerebellum, or occipital lobes                                        |
 
-## [Trial of Org 10172 in Acute Stroke Treatment (TOAST)](https://www.ahajournals.org/doi/10.1161/01.STR.24.1.35)
+## [Trial of Org 10172 in Acute Stroke Treatment (TOAST) classification](https://www.ahajournals.org/doi/10.1161/01.STR.24.1.35)
 
 1. Large-artery atherosclerosis
 2. Cardioembolism
