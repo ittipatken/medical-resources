@@ -29,3 +29,4 @@
 * [The Acute Stroke or Transient Ischemic Attack Treated with Ticagrelor and ASA for Prevention of Stroke and Death (THALES)](https://www.nejm.org/doi/full/10.1056/NEJMoa1916870)
 * [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-1](https://www.ahajournals.org/doi/10.1161/01.STR.0000157667.06542.b7)
 * [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-2](https://www.ahajournals.org/doi/10.1161/STROKEAHA.110.609370)
+* [Cilostazol Stroke Prevention Study for Antiplatelet Combination (CSPS.com)](https://www.ahajournals.org/doi/10.1161/STROKEAHA.119.028409)
