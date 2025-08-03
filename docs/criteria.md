@@ -1,6 +1,8 @@
 # Criteria
 
-## [Canadian Cardiovascular Society (CCS) grading of angina pectoris](https://ccs.ca/wp-content/uploads/2020/12/Ang_Gui_1976.pdf)
+## Internal Medicine
+
+#### [Canadian Cardiovascular Society (CCS) grading of angina pectoris](https://ccs.ca/wp-content/uploads/2020/12/Ang_Gui_1976.pdf)
 
 | Grade | Description                                                                                                                                                                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +11,7 @@
 | III   | _Marked limitation_ of ordinary physical activity. Walking one or two blocks on the level and climbing one flight of stairs in normal conditions and at normal pace.                                                                                                                                                                                                            |
 | IV    | Inability to carry on any physical activity without discomfort, anginal syndrome may be _present at rest_.                                                                                                                                                                                                                                                                      |
 
-## [New York Heart Association (NYHA) functional classification](https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure)
+### [New York Heart Association (NYHA) functional classification](https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure)
 
 | Class | Description                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +20,7 @@
 | III   | _Marked limitation_ of physical activity. Comfortable at rest. Less than ordinary activity causes fatigue, palpitation, shortness of breath or chest pain.    |
 | IV    | Symptoms of heart failure _at rest_. Any physical activity causes further discomfort.                                                                         |
 
-## [Modified Medical Research Council (mMRC) dyspnea scale](<https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext>)
+### [Modified Medical Research Council (mMRC) dyspnea scale](<https://journal.chestnet.org/article/S0012-3692(16)30335-X/fulltext>)
 
 | Grade | Description                                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +30,7 @@
 | 3     | _Stops for breath after walking about 100 yards (91 m)_ or after a few minutes on the level                                                         |
 | 4     | Too breathless to _leave the house_ or breathless when _dressing or undressing_                                                                     |
 
-## [Oxford Community Stroke Project (OCSP) classification](<https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext>)
+### [Oxford Community Stroke Project (OCSP) classification](<https://www.thelancet.com/journals/lancet/article/PII0140-6736(91)93206-O/fulltext>)
 
 | Class                                       | Description                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -37,7 +39,7 @@
 | Lacunar infarct (LACI)                      | Small lacunar infarct in the basal ganglia or the pons                                               |
 | Posterior circulation infarct (POCI)        | Associated with the brainstem, cerebellum, or occipital lobes                                        |
 
-## [Trial of Org 10172 in Acute Stroke Treatment (TOAST) classification](https://www.ahajournals.org/doi/10.1161/01.STR.24.1.35)
+### [Trial of Org 10172 in Acute Stroke Treatment (TOAST) classification](https://www.ahajournals.org/doi/10.1161/01.STR.24.1.35)
 
 1. Large-artery atherosclerosis
 2. Cardioembolism
@@ -45,7 +47,7 @@
 4. Stroke of other determined etiology
 5. Stroke of undetermined etiology
 
-## [Levine (heart murmur) grading scale](https://www.acpjournals.org/doi/10.7326/0003-4819-6-11-1371)
+### [Levine (heart murmur) grading scale](https://www.acpjournals.org/doi/10.7326/0003-4819-6-11-1371)
 
 | Grade | Description                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------- |
@@ -56,7 +58,7 @@
 | 5     | Loud with a thrill. So loud that it is audible with only the rim of the stethoscope touching the chest.  |
 | 6     | Loud with a palpable thrill. Audible with the stethoscope not touching the chest but lifted just off it. |
 
-## Pitting edema scale
+### Pitting edema scale
 
 | Grade | Description                                      |
 | ----- | ------------------------------------------------ |
@@ -65,7 +67,7 @@
 | 3+    | 4-6 mm depression that rebounds in 10-12 s       |
 | 4+    | 6-8 mm depression that rebounds in > 20 s        |
 
-## Medical Research Council (MRC) scale for muscle strength
+### Medical Research Council (MRC) scale for muscle strength
 
 | Grade | Description                                            |
 | ----- | ------------------------------------------------------ |
@@ -78,7 +80,7 @@
 
 > Subdivisions of grade 4 are often necessary. Grade 4-, 4, and 4+ may be used to indicate movement against slight, moderate, and strong resistance, respectively.
 
-## [Eastern Cooperative Oncology Group (ECOG) performance status](https://journals.lww.com/amjclinicaloncology/abstract/1982/12000/toxicity_and_response_criteria_of_the_eastern.14.aspx)
+### [Eastern Cooperative Oncology Group (ECOG) performance status](https://journals.lww.com/amjclinicaloncology/abstract/1982/12000/toxicity_and_response_criteria_of_the_eastern.14.aspx)
 
 | Grade | Description                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------- |
@@ -88,7 +90,7 @@
 | 3     | Capable of only limited self-care; confined to bed or chair >50% of waking hours.                        |
 | 4     | Completely disabled; cannot carry out any self-care; totally confined to bed or chair.                   |
 
-## [Karnofsky performance status (KPS) scale](<https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(194811)1:4%3C634::AID-CNCR2820010410%3E3.0.CO;2-L>)
+### [Karnofsky performance status (KPS) scale](<https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(194811)1:4%3C634::AID-CNCR2820010410%3E3.0.CO;2-L>)
 
 | Definition                                                                                                          | %   | Criteria                                                                     |
 | ------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------- |
@@ -104,7 +106,7 @@
 |                                                                                                                     | 10  | Moribund; fatal processes progressing rapidly.                               |
 |                                                                                                                     | 0   | Dead.                                                                        |
 
-## [Murray and Washington's grading system (sputum)](https://pubmed.ncbi.nlm.nih.gov/1127999/)
+### [Murray and Washington's grading system (sputum)](https://pubmed.ncbi.nlm.nih.gov/1127999/)
 
 | Group | Epithelial cells per low power (×10) field | White cells per low power (×10) field |
 | ----- | ------------------------------------------ | ------------------------------------- |
@@ -114,7 +116,7 @@
 | 4     | 10-25                                      | ≥ 25                                  |
 | 5     | < 10                                       | ≥ 25                                  |
 
-## [Los Angeles (LA) grading of esophagitis](https://www.sciencedirect.com/science/article/pii/S0016508596003320)
+### [Los Angeles (LA) grading of esophagitis](https://www.sciencedirect.com/science/article/pii/S0016508596003320)
 
 | Grade | Description                                                                                                     |
 | ----- | --------------------------------------------------------------------------------------------------------------- |
@@ -123,7 +125,7 @@
 | C     | Mucosal breaks continuous between ≥ 2 mucosal folds but involving less than 75% of the esophageal circumference |
 | D     | Mucosal breaks involving more than 75% of esophageal circumference                                              |
 
-## [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
+### [Forrest classification of upper gastrointestinal bleeding (UGIB)](https://www.sciencedirect.com/science/article/pii/S014067367491770X)
 
 - Acute hemorrhage
   - Forrest Ia (spurting hemorrhage)
@@ -137,7 +139,7 @@
 
 > Forrest Ia, Ib, and IIa are high-risk lesions, while Forrest IIb is an intermediate- to high-risk lesion.
 
-## [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
+### [Revised Atlanta classification of acute pancreatitis](https://gut.bmj.com/content/62/1/102)
 
 Definition of diagnosis of acute pancreatitis requires two of the following three features:
 
@@ -148,8 +150,42 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 > - If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
 > - If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
 
-## [Tokyo Guidelines 2018 (TG18) for acute cholangitis and cholecystitis](https://www.jshbps.jp/modules/en/index.php?content_id=47)
+### [Tokyo Guidelines 2018 (TG18) for acute cholangitis and cholecystitis](https://www.jshbps.jp/modules/en/index.php?content_id=47)
 
-## [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
+### [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
 
-## [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
+### [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
+
+## Pediatrics
+
+### Tanner staging (Sexual Maturity Rating (SMR)) for [boys](https://adc.bmj.com/content/45/239/13) and [girls](https://adc.bmj.com/content/44/235/291)
+
+1. Boys - Genitalia Stages
+
+| Stage | Description                                                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | _Pre-adolescent_. Testes, scrotum, and penis are of about the same size and proportion as in early childhood.                                                                                                       |
+| 2     | The _scrotum and testes have enlarged_ and there is a change in the texture of the scrotal skin. There is also some reddening of the scrotal skin but this cannot be detected on black and white photographs.       |
+| 3     | _Growth of the penis_ has occurred, at first _mainly in length_ but with some increase in breadth. There has been further growth of testes and scrotum.                                                             |
+| 4     | Penis further _enlarged in length and breadth with development of glans_. Testes and scrotum further enlarged. There is also further darkening of the scrotal skin, but this is difficult to detect on photographs. |
+| 5     | Genitalia _adult in size and shape_. No further enlargement takes place after Stage 5 is reached.                                                                                                                   |
+
+2. Girls - Breast Stages
+
+| Stage | Description                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------- |
+| 1     | _Pre-adolescent_; elevation of papilla only.                                                                     |
+| 2     | _Breast and bud stage; elevation of breast and papilla_ as a small mound, enlargement of areola diameter.        |
+| 3     | _Further enlargement of breast and areola_, with no separation of their contours.                                |
+| 4     | Projection of areola and papilla to form a _secondary mound_ above the level of the breast.                      |
+| 5     | Mature stage; _projection of papilla_ only, due to recession of the areola to the general contour of the breast. |
+
+3. Boys and Girls - Pubic Hair Stages
+
+| Stage | Description                                                                                                                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | _Pre-adolescent_. The vellus over the pubes is no further developed than that over the abdominal wall, i.e. no pubic hair.                                                                                                      |
+| 2     | Sparse growth of long, slightly pigmented, _downy hair_, straight or only slightly curled, appearing chiefly _at the base of the penis_. This stage is difficult to see on photographs, particularly of fair-haired subjects.   |
+| 3     | Considerably _darker, coarser, and more curled_. The hair spreads sparsely over the junction of the pubes. This and subsequent stages were clearly recognizable on the photographs.                                             |
+| 4     | Hair is now _adult in type_, but the area covered by it is still considerably smaller than in most adults. There is no spread to the medial surface of the thighs.                                                              |
+| 5     | Adult in quantity and type, distributed as an inverse triangle of the classically feminine pattern. _Spread to the medial surface of the thighs_ but not up the linea alba or elsewhere above the base of the inverse triangle. |
