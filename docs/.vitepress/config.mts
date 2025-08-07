@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,75 +6,76 @@ export default defineConfig({
   description: "A list of commonly used medical resources in Thailand",
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/ittipatken/medical-resources/edit/main/docs/:path'
+      pattern:
+        "https://github.com/ittipatken/medical-resources/edit/main/docs/:path",
     },
     search: {
-      provider: 'local'
+      provider: "local",
     },
     lastUpdated: {
-      text: 'Updated at',
+      text: "Updated at",
       formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
+        dateStyle: "full",
+        timeStyle: "medium",
+      },
     },
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
-        text: 'Introduction',
-        items: [
-          { text: 'What is this?', link: '/what-is-this' },
-        ]
+        text: "Introduction",
+        items: [{ text: "What is this?", link: "/what-is-this" }],
       },
       {
-        text: 'General',
+        text: "General",
         items: [
-          { text: 'Criteria', link: '/criteria' },
-          { text: 'Dietetics', link: '/dietetics' },
-          { text: 'Government Agency', link: '/government-agency' },
-          { text: 'Genetics', link: '/genetics' },
-          { text: 'Laboratory', link: '/laboratory'},
-          { text: 'Microbiology', link: '/microbiology' },
-        ]
+          { text: "Criteria", link: "/criteria" },
+          { text: "Dietetics", link: "/dietetics" },
+          { text: "Government Agency", link: "/government-agency" },
+          { text: "Genetics", link: "/genetics" },
+          { text: "Laboratory", link: "/laboratory" },
+          { text: "Microbiology", link: "/microbiology" },
+        ],
       },
       {
-        text: 'Guidelines',
+        text: "Guidelines",
         items: [
           {
-            text: 'Internal Medicine',
+            text: "Internal Medicine",
             items: [
-              { text: 'Allergy and Immunology', link: '/allergy-immunology' },
-              { text: 'Cardiology', link: '/cardiology' },
-              { text: 'Endocrinology', link: '/endocrinology' },
-              { text: 'Gastroenterology', link: '/gastroenterology' },
-              { text: 'Hematology', link: '/hematology' },
-              { text: 'Infectious Disease', link: '/infectious-disease' },
-              { text: 'Nephrology', link: '/nephrology' },
-              { text: 'Neurology', link: '/neurology' },
-              { text: 'Oncology', link: '/oncology' },
-              { text: 'Respiratory Medicine', link: '/respiratory-medicine' },
-              { text: 'Rheumatology', link: '/rheumatology' },
-            ]
+              { text: "Allergy and Immunology", link: "/allergy-immunology" },
+              { text: "Cardiology", link: "/cardiology" },
+              { text: "Endocrinology", link: "/endocrinology" },
+              { text: "Gastroenterology", link: "/gastroenterology" },
+              { text: "Hematology", link: "/hematology" },
+              { text: "Infectious Disease", link: "/infectious-disease" },
+              { text: "Nephrology", link: "/nephrology" },
+              { text: "Neurology", link: "/neurology" },
+              { text: "Oncology", link: "/oncology" },
+              { text: "Respiratory Medicine", link: "/respiratory-medicine" },
+              { text: "Rheumatology", link: "/rheumatology" },
+              { text: "Sleep Medicine", link: "/sleep-medicine" },
+            ],
           },
-          { text: 'Dermatology', link: '/dermatology'},
-          { text: 'Radiology', link: '/radiology' },
-          { text: 'Pain Management', link: '/pain-management' },
-          { text: 'Psychiatry', link: '/psychiatry' },
-          { text: 'Pediatrics', link: '/pediatrics' },
+          { text: "Dermatology", link: "/dermatology" },
+          { text: "Radiology", link: "/radiology" },
+          { text: "Pain Management", link: "/pain-management" },
+          { text: "Psychiatry", link: "/psychiatry" },
+          { text: "Pediatrics", link: "/pediatrics" },
           // { text: 'Obstetrics and Gynecology', link: '/obstetrics-gynecology' },
-          { text: 'Otolaryngology', link: '/otolaryngology' },
+          { text: "Otolaryngology", link: "/otolaryngology" },
           // { text: 'Palliative Care', link: '/palliative-care' },
-          { text: 'Emergency Medicine', link: '/emergency-medicine' },
-        ]
-      }
+          { text: "Emergency Medicine", link: "/emergency-medicine" },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ittipatken/medical-resources' }
-    ]
-  }
-})
+      {
+        icon: "github",
+        link: "https://github.com/ittipatken/medical-resources",
+      },
+    ],
+  },
+});
