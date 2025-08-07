@@ -190,7 +190,7 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | 4     | Hair is now _adult in type_, but the area covered by it is still considerably smaller than in most adults. There is no spread to the medial surface of the thighs.                                                              |
 | 5     | Adult in quantity and type, distributed as an inverse triangle of the classically feminine pattern. _Spread to the medial surface of the thighs_ but not up the linea alba or elsewhere above the base of the inverse triangle. |
 
-### Modified [Waterlow's classification system for malnutrition](https://www.bmj.com/content/3/5826/566)
+### Modified [Waterlow](https://www.bmj.com/content/3/5826/566) and [Gómez](https://academic.oup.com/tropej/article/2/2/77/1660400)'s classification system for malnutrition
 
 |      | Normal | Mild   | Moderate | Severe | Nutritional Status |
 | ---- | ------ | ------ | -------- | ------ | ------------------ |
