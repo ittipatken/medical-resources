@@ -189,3 +189,14 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | 3     | Considerably _darker, coarser, and more curled_. The hair spreads sparsely over the junction of the pubes. This and subsequent stages were clearly recognizable on the photographs.                                             |
 | 4     | Hair is now _adult in type_, but the area covered by it is still considerably smaller than in most adults. There is no spread to the medial surface of the thighs.                                                              |
 | 5     | Adult in quantity and type, distributed as an inverse triangle of the classically feminine pattern. _Spread to the medial surface of the thighs_ but not up the linea alba or elsewhere above the base of the inverse triangle. |
+
+### Modified [Waterlow's classification system for malnutrition](https://www.bmj.com/content/3/5826/566)
+
+|      | Normal | Mild   | Moderate | Severe | Nutritional Status |
+| ---- | ------ | ------ | -------- | ------ | ------------------ |
+| %W/A | >90%   | 75–90% | 60–75%   | <60%   | Underweight        |
+| %W/H | >90%   | 80–90% | 70–80%   | <70%   | Wasting            |
+| %H/A | >95%   | 90–95% | 85–90%   | <85%   | Stunting           |
+
+> - **%W/A** reflects acute/present malnutrition.
+> - **%H/A** reflects chronic/past malnutrition.
