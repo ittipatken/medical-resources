@@ -76,3 +76,6 @@
 * [Pediatric Basic and Advanced Life Support 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000901)
 * [CDC’s developmental milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
 * [Denver II](https://publications.aap.org/pediatrics/article/89/1/91/57343/The-Denver-II-A-Major-Revision-and)
+
+## International
+* [The WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards/standards)
