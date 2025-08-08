@@ -200,3 +200,21 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 > - **%W/A** reflects acute/present malnutrition.
 > - **%H/A** reflects chronic/past malnutrition.
+
+## OB/GYN
+
+### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
+
+| Category                          | Score of 0                 | Score of 1                      | Score of 2                                               |
+| --------------------------------- | -------------------------- | ------------------------------- | -------------------------------------------------------- |
+| **Appearance** (skin color)       | Blue/pale                  | Blue at extremities, pink body  | All pink                                                 |
+| **Pulse**                         | Absent                     | < 100 bpm                       | ≥ 100 bpm                                                |
+| **Grimace** (reflex irritability) | No response to stimulation | Minimal response on stimulation | Prompt response on stimulation                           |
+| **Activity** (muscle tone)        | Absent                     | Some extremity flexion          | Spontaneously flexed arms and legs that resist extension |
+| **Respiratory effort**            | Absent                     | Slow and irregular              | Breathed and cried lustily                               |
+
+> ICD-11 classification
+>
+> - Severe: 0-3
+> - Mild and moderate: 4-7
+> - Normal: > 7
