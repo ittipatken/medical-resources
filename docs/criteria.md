@@ -201,6 +201,23 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 > - **%W/A** reflects acute/present malnutrition.
 > - **%H/A** reflects chronic/past malnutrition.
 
+### [Centers for Disease Control and Prevention (CDC)'s dehydration scale](https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5216a1.htm)
+
+| Symptom              | Minimal or no dehydration (< 3% loss of body weight) | Mild to moderate dehydration (3%–9% loss of body weight) | Severe dehydration (> 9% loss of body weight)      |
+| -------------------- | ---------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
+| Mental status        | Well; alert                                          | Normal, fatigued or restless, irritable                  | Apathetic, lethargic, unconscious                  |
+| Thirst               | Drinks normally; might refuse liquids                | Thirsty, eager to drink                                  | Drinks poorly; unable to drink                     |
+| Heart rate           | Normal                                               | Normal to increased                                      | Tachycardia, with bradycardia in most severe cases |
+| Quality of pulses    | Normal                                               | Normal to decreased                                      | Weak, thready, or impalpable                       |
+| **Breathing**        | Normal                                               | Normal; fast                                             | Deep                                               |
+| Eyes                 | Normal                                               | Slightly sunken                                          | Deeply sunken                                      |
+| Tears                | Present                                              | Decreased                                                | Absent                                             |
+| Mouth and tongue     | Moist                                                | Dry                                                      | Parched                                            |
+| **Skin fold**        | Instant recoil                                       | Recoil in <2 seconds                                     | Recoil in ≥2 seconds                               |
+| **Capillary refill** | Normal                                               | Prolonged                                                | Prolonged; minimal                                 |
+| Extremities          | Warm                                                 | Cool                                                     | Cold; mottled; cyanotic                            |
+| Urine output         | Normal to decreased                                  | Decreased                                                | Minimal                                            |
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
