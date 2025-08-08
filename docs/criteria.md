@@ -209,7 +209,7 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | --------------------------------- | -------------------------- | ------------------------------- | -------------------------------------------------------- |
 | **Appearance** (skin color)       | Blue/pale                  | Blue at extremities, pink body  | All pink                                                 |
 | **Pulse**                         | Absent                     | < 100 bpm                       | ≥ 100 bpm                                                |
-| **Grimace** (reflex irritability) | No response to stimulation | Minimal response on stimulation | Prompt response on stimulation                           |
+| **Grimace** (reflex irritability) | No response to stimulation | Minimal response to stimulation | Prompt response to stimulation                           |
 | **Activity** (muscle tone)        | Absent                     | Some extremity flexion          | Spontaneously flexed arms and legs that resist extension |
 | **Respiratory effort**            | Absent                     | Slow and irregular              | Breathed and cried lustily                               |
 
