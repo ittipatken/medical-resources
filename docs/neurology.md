@@ -30,3 +30,4 @@
 * [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-1](https://www.ahajournals.org/doi/10.1161/01.STR.0000157667.06542.b7)
 * [Cilostazol in Symptomatic Intracranial Arterial Stenosis (TOSS)-2](https://www.ahajournals.org/doi/10.1161/STROKEAHA.110.609370)
 * [Cilostazol Stroke Prevention Study for Antiplatelet Combination (CSPS.com)](https://www.ahajournals.org/doi/10.1161/STROKEAHA.119.028409)
+* [Alteplase for Acute Ischemic Stroke at 4.5 to 24 Hours (HOPE)](https://jamanetwork.com/journals/jama/fullarticle/2837438)
