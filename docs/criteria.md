@@ -216,6 +216,16 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | Extremities          | Warm                                                 | Cool                                                     | Cold; mottled; cyanotic                            |
 | Urine output         | Normal to decreased                                  | Decreased                                                | Minimal                                            |
 
+### [Downes' clinical croup score](https://journals.lww.com/anesthesiology/citation/1975/08000/pediatric_intensive_care.9.aspx)
+
+|                           | 0      | 1                                    | 2                                                |
+| ------------------------- | ------ | ------------------------------------ | ------------------------------------------------ |
+| Inspiratory breath sounds | Normal | Harsh with rhonchi                   | Delayed                                          |
+| Stridor                   | None   | Inspiratory                          | Inspiratory and expiratory                       |
+| Cough                     | None   | Hoarse cry                           | Bark                                             |
+| Retractions and flaring   | None   | Flaring and suprasternal retractions | As under 1 plus subcostal, intercostal reactions |
+| Cyanosis                  | None   | In air                               | In 40 percent O2                                 |
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
