@@ -71,6 +71,9 @@
         * Acute bronchiolitis
         * Viral induced wheeze
 
+## Europe
+* [European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) guidelines](https://espghan.info/published-guidelines/)
+
 ## USA
 * [American Academy of Pediatrics (AAP)](https://publications.aap.org/collection/523/Clinical-Practice-Guidelines)
 * [Pediatric Basic and Advanced Life Support 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000901)
