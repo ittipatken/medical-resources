@@ -8,6 +8,9 @@
 * [ตำรับอาหาร สำนักโภชนาการ กรมอนามัย](https://nutrition2.anamai.moph.go.th/th/book?textSearch=&category=1483)
 * [ตำรับอาหาร Ajinomoto Foundation](https://nutrition.ajinomotofoundation.or.th/th/recipebyregion)
 
+## Europe
+* [The European Society for Clinical Nutrition and Metabolism (ESPEN)](https://espghan.info/published-guidelines/)
+
 ## International
 * [Food and Agriculture Organization (FAO) of the United Nations dietary guidelines](https://www.fao.org/nutrition/education/food-dietary-guidelines/en/)
 * [Open Food Facts](https://th-en.openfoodfacts.org)
