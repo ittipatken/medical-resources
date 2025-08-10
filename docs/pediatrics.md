@@ -72,7 +72,7 @@
         * Viral induced wheeze
 
 ## Europe
-* [European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) guidelines](https://espghan.info/published-guidelines/)
+* [European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN)](https://espghan.info/published-guidelines/)
 
 ## USA
 * [American Academy of Pediatrics (AAP)](https://publications.aap.org/collection/523/Clinical-Practice-Guidelines)
