@@ -1,6 +1,8 @@
 # Sleep Medicine
 
 ## Thailand
+* [Sleep Society of Thailand](https://sleepsocietythailand.org/th/for_doctors)
+    * Obstructive sleep apnea (OSA)
 * [Clinical Recommendations for Diagnosis and Management of Insomnia in Thailand for Adults 2025](https://drive.google.com/file/d/1xEyOAv5Xx1OCJByLc1wDjYMcGiAjw8h-/view)
 
 ## USA
