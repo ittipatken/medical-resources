@@ -226,6 +226,15 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | Retractions and flaring   | None   | Flaring and suprasternal retractions | As under 1 plus subcostal, intercostal reactions |
 | Cyanosis                  | None   | In air                               | In 40 percent O2                                 |
 
+### Modified Ross heart failure classification for children
+
+| Class | Description                                                                                                                      |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
+| I     | Asymptomatic                                                                                                                     |
+| II    | Mild tachypnea or diaphoresis with feeding in infants, dyspnea on exertion in older children                                     |
+| III   | Marked tachypnea or diaphoresis with feeding in infants, marked dyspnea on exertion, prolonged feeding times with growth failure |
+| IV    | Symptoms such as tachypnea, retractions, grunting, or diaphoresis at rest                                                        |
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
