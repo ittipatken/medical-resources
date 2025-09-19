@@ -211,7 +211,7 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | Eyes                 | Normal                                               | Slightly sunken                                          | Deeply sunken                                      |
 | Tears                | Present                                              | Decreased                                                | Absent                                             |
 | Mouth and tongue     | Moist                                                | Dry                                                      | Parched                                            |
-| **Skin fold**        | Instant recoil                                       | Recoil in <2 seconds                                     | Recoil in ≥2 seconds                               |
+| **Skin fold**        | Instant recoil                                       | Recoil in <2 seconds                                     | Recoil in >2 seconds                               |
 | **Capillary refill** | Normal                                               | Prolonged                                                | Prolonged; minimal                                 |
 | Extremities          | Warm                                                 | Cool                                                     | Cold; mottled; cyanotic                            |
 | Urine output         | Normal to decreased                                  | Decreased                                                | Minimal                                            |
