@@ -235,6 +235,19 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | III   | Marked tachypnea or diaphoresis with feeding in infants, marked dyspnea on exertion, prolonged feeding times with growth failure |
 | IV    | Symptoms such as tachypnea, retractions, grunting, or diaphoresis at rest                                                        |
 
+### [Hanifin and Rajka criteria for atopic dermatitis (AD)](https://medicaljournalssweden.se/actadv/article/view/10725)
+
+3 or more basic features:
+
+- Pruritus
+- Typical morphology and distribution:
+  - Flexural lichenification or linearity in adults
+  - Facial and extensor involvement in infants and children
+- Chronic or chronically-repleasing dermatitis
+- Personal and family history of atopy (asthma, allergic rhinitis, atopic dermatitis)
+
+Plus 3 or more minor features
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
