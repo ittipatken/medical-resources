@@ -89,3 +89,4 @@
 ## International
 * [The WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards/standards)
 * [Academy of Breastfeeding Medicine (ABM) protocols](https://www.bfmed.org/protocols)
+* [Neonatal Early-Onset Sepsis Calculator](https://neonatalsepsiscalculator.kaiserpermanente.org)
