@@ -70,6 +70,11 @@
     * Wheeze
         * Acute bronchiolitis
         * Viral induced wheeze
+    * [Ebook สำหรับประชาชน](https://www.thaipediatrics.org/?cat=30)
+        * วัยรุ่น
+        * เด็กวัยเรียน 6-12 ปี
+        * เด็กวัยอนุบาล 3-6 ปี
+        * วัยเด็กเล็ก 0-3 ปี
 
 ## Europe
 * [European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN)](https://espghan.info/published-guidelines/)
