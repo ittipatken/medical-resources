@@ -81,6 +81,9 @@
 
 ## USA
 * [American Academy of Pediatrics (AAP)](https://publications.aap.org/collection/523/Clinical-Practice-Guidelines)
+    * [Postnatal Glucose Homeostasis in Late-Preterm and Term Infants](https://publications.aap.org/pediatrics/article/127/3/e20103851/65026/Postnatal-Glucose-Homeostasis-in-Late-Preterm-and)
+    * [Management of Hyperbilirubinemia in the Newborn 2022](https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/Clinical-Practice-Guideline-Revision-Management-of)
+    * [Management of Hyperbilirubinemia in the Newborn 2004](https://publications.aap.org/pediatrics/article/114/1/297/64771/Management-of-Hyperbilirubinemia-in-the-Newborn)
 * [Pediatric Basic and Advanced Life Support (PALS) 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000901)
 * [Neonatal resuscitation 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000902)
 * [CDC’s developmental milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
