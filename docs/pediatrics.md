@@ -1,7 +1,8 @@
 # Pediatrics
 
 ## Thailand
-* [Pediatric vaccination](https://www.pidst.or.th/C25.html)
+* [Pediatric vaccination by PIDST](https://www.pidst.or.th/C25.html)
+* [Pediatric vaccination by DDC](https://shorturl-ddc.moph.go.th/PluqO)
 * [Thai Society of Pediatric Gastroenterology and Hepatology (TSPGH)](https://pthaigastro.org/Guideline.aspx)
     * Non-alcoholic fatty liver disease (NAFLD)
     * Diarrhea
