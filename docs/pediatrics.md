@@ -87,6 +87,7 @@
 * [Pediatric Basic and Advanced Life Support (PALS) 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000901)
 * [Neonatal resuscitation 2020](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000902)
 * [CDC’s developmental milestones](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
+* [CDC's child passenger safety](https://www.cdc.gov/child-passenger-safety/site.html)
 * [Denver II](https://publications.aap.org/pediatrics/article/89/1/91/57343/The-Denver-II-A-Major-Revision-and)
 * [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/)
 
