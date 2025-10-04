@@ -18,3 +18,4 @@
 
 ## International
 * [Rome IV criteria](https://theromefoundation.org/rome-iv/rome-iv-criteria/)
+* [Bristol stool chart](https://www.sciencedirect.com/science/article/pii/S1166708714001869?via%3Dihub#fig0005)
