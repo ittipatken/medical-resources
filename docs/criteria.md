@@ -258,6 +258,8 @@ Plus 3 or more minor features
 
 ### [Rochester criteria for febrile infants](https://www.sciencedirect.com/science/article/pii/S002234768580175X)
 
+### [Yale observation scale score](https://publications.aap.org/pediatrics/article/70/5/802/47810/Observation-Scales-to-Identify-Serious-Illness-in)
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
