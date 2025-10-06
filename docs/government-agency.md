@@ -9,7 +9,7 @@
     * [คู่มือบัญชียาหลักแห่งชาติด้านสมุนไพร](https://herbal.fda.moph.go.th/drug-list/category/ann-drug02)
 * Department of Disease Control 
     * [Digital Disease Surveillance](https://ddsdoe.ddc.moph.go.th/ddss/)
-* [Medical laws](https://www.tmc.or.th/statute.php)
+* [พระราชบัญญัติที่เกี่ยวข้องกับการแพทย์](https://www.tmc.or.th/statute.php)
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
 * [National antimicrobial resistant surveillance, Thailand (NARST)](https://narst.dmsc.moph.go.th/)
     * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram) 
