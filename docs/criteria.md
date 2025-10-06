@@ -248,6 +248,15 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 Plus 3 or more minor features
 
+### [Neonatal early-onset sepsis calculator](https://neonatalsepsiscalculator.kaiserpermanente.org)
+
+### [Phoenix sepsis score](https://jamanetwork.com/journals/jama/fullarticle/2814297#joi240002t1)
+
+### [ISSVA classification for vascular anomalies](https://www.issva.org/classification)
+
+### [Wilsons disease scoring system (Leipzig score)](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0676.2003.00824.x)
+
+
 ## OB/GYN
 
 ### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
