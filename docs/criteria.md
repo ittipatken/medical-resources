@@ -256,6 +256,7 @@ Plus 3 or more minor features
 
 ### [Wilsons disease scoring system (Leipzig score)](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0676.2003.00824.x)
 
+### [Rochester criteria for febrile infants](https://www.sciencedirect.com/science/article/pii/S002234768580175X)
 
 ## OB/GYN
 
