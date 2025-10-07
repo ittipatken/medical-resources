@@ -61,6 +61,7 @@ export default defineConfig({
           { text: "Dermatology", link: "/dermatology" },
           { text: "Radiology", link: "/radiology" },
           { text: "Pain Management", link: "/pain-management" },
+          { text: "Pathology", link: "/pathology" },
           { text: "Psychiatry", link: "/psychiatry" },
           { text: "Pediatrics", link: "/pediatrics" },
           // { text: 'Obstetrics and Gynecology', link: '/obstetrics-gynecology' },
