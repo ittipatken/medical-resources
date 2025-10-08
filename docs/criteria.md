@@ -248,6 +248,8 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 Plus 3 or more minor features
 
+### [10 warning signs of primary immunodeficiency](https://info4pi.org/library/educational-materials/)
+
 ### [Neonatal early-onset sepsis calculator](https://neonatalsepsiscalculator.kaiserpermanente.org)
 
 ### [Phoenix sepsis score](https://jamanetwork.com/journals/jama/fullarticle/2814297#joi240002t1)
