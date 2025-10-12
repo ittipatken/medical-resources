@@ -10,12 +10,6 @@
     * Hepatitis C
     * Esophagogastric variceal hemorrhage (EGVH)
 
-## Japan
-* [Tokyo Guidelines 2018 (TG18)](https://www.jshbps.jp/modules/en/index.php?content_id=47)
-    * Acute cholangitis
-    * Acute cholecystitis
-    * Acute biliary infection
-
 ## International
 * [Rome IV criteria](https://theromefoundation.org/rome-iv/rome-iv-criteria/)
 * [Bristol stool chart](https://www.sciencedirect.com/science/article/pii/S1166708714001869?via%3Dihub#fig0005)

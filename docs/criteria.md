@@ -279,3 +279,32 @@ Plus 3 or more minor features
 > - Severe: 0-3
 > - Mild and moderate: 4-7
 > - Normal: > 7
+
+## Surgery
+
+### Child-Pugh score for cirrhosis mortality
+
+| Parameter         | Criteria                     | Points |
+| ----------------- | ---------------------------- | ------ |
+| Bilirubin (Total) | < 2 mg/dL (< 34.2 µmol/L)    | +1     |
+|                   | 2–3 mg/dL (34.2–51.3 µmol/L) | +2     |
+|                   | > 3 mg/dL (> 51.3 µmol/L)    | +3     |
+| Albumin           | > 3.5 g/dL (> 35 g/L)        | +1     |
+|                   | 2.8–3.5 g/dL (28–35 g/L)     | +2     |
+|                   | < 2.8 g/dL (< 28 g/L)        | +3     |
+| INR               | < 1.7                        | +1     |
+|                   | 1.7–2.3                      | +2     |
+|                   | > 2.3                        | +3     |
+| Ascites           | Absent                       | +1     |
+|                   | Slight                       | +2     |
+|                   | Moderate                     | +3     |
+| Encephalopathy    | No Encephalopathy            | +1     |
+|                   | Grade 1–2                    | +2     |
+|                   | Grade 3–4                    | +3     |
+
+### [Milan criteria for liver transplantation](https://www.nejm.org/doi/full/10.1056/NEJM199603143341104)
+
+- Single tumor with diameter ≤ 5 cm
+- Up to 3 tumors each with diameter ≤ 3 cm
+- Extra-hepatic involvement
+- Major vessel involvement
