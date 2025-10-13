@@ -152,8 +152,8 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 ### [Harris–Benedict equation for basal energy expenditure (BEE/BMR)](https://www.pnas.org/doi/abs/10.1073/pnas.4.12.370)
 
-- Men BEE = 66.473 + (13.7516 × weight in kg) + (5.0033 × height in cm) – (6.755 × age in years)
-- Women BEE = 655.0955 + (9.5634 × weight in kg) + (1.8496 × height in cm) – (4.6756 × age in years)
+- Men BEE (kcal/day) = 66.473 + (13.7516 × weight in kg) + (5.0033 × height in cm) – (6.755 × age in years)
+- Women BEE (kcal/day) = 655.0955 + (9.5634 × weight in kg) + (1.8496 × height in cm) – (4.6756 × age in years)
 
 ### [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
 
