@@ -229,7 +229,7 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | Stridor                   | None   | Inspiratory                          | Inspiratory and expiratory                       |
 | Cough                     | None   | Hoarse cry                           | Bark                                             |
 | Retractions and flaring   | None   | Flaring and suprasternal retractions | As under 1 plus subcostal, intercostal reactions |
-| Cyanosis                  | None   | In air                               | In 40 percent O2                                 |
+| Cyanosis                  | None   | In air                               | In 40% O<sub>2</sub>                                 |
 
 ### Modified Ross heart failure classification for children
 
