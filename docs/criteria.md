@@ -150,6 +150,11 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 > - If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
 > - If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
 
+### [Harris–Benedict equation for basal energy expenditure (BEE/BMR)](https://www.pnas.org/doi/abs/10.1073/pnas.4.12.370)
+
+- Men BEE = 66.473 + (13.7516 × weight in kg) + (5.0033 × height in cm) – (6.755 × age in years)
+- Women BEE = 655.0955 + (9.5634 × weight in kg) + (1.8496 × height in cm) – (4.6756 × age in years)
+
 ### [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
 
 ### [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
