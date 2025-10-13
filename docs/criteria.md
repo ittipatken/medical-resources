@@ -229,7 +229,7 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 | Stridor                   | None   | Inspiratory                          | Inspiratory and expiratory                       |
 | Cough                     | None   | Hoarse cry                           | Bark                                             |
 | Retractions and flaring   | None   | Flaring and suprasternal retractions | As under 1 plus subcostal, intercostal reactions |
-| Cyanosis                  | None   | In air                               | In 40% O<sub>2</sub>                                 |
+| Cyanosis                  | None   | In air                               | In 40% O<sub>2</sub>                             |
 
 ### Modified Ross heart failure classification for children
 
@@ -286,6 +286,17 @@ Plus 3 or more minor features
 > - Normal: > 7
 
 ## Surgery
+
+### [American Society of Anesthesiologists (ASA) physical status classification system](https://www.asahq.org/standards-and-practice-parameters/statement-on-asa-physical-status-classification-system)
+
+| Classification | Definition                                                                      |
+| -------------- | ------------------------------------------------------------------------------- |
+| I              | A normal healthy patient                                                        |
+| II             | A patient with mild systemic disease                                            |
+| III            | A patient with severe systemic disease                                          |
+| IV             | A patient with severe systemic disease that is a constant threat to life        |
+| V              | A moribund patient who is not expected to survive without the operation         |
+| VI             | A declared brain-dead patient whose organs are being removed for donor purposes |
 
 ### Child-Pugh score for cirrhosis mortality
 
