@@ -324,3 +324,13 @@ Plus 3 or more minor features
 - Up to 3 tumors each with diameter ≤ 3 cm
 - Extra-hepatic involvement
 - Major vessel involvement
+
+### [Narrow-band imaging International Colorectal Endoscopic (NICE) classification](https://www.wjgnet.com/1948-5190/full/v6/i12/600.htm)
+
+|                       | Type 1                                                                   | Type 2                                                                 | Type 3                                                                    |
+| --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Color                 | Same or lighter than background                                          | Browner relative to background (verify color arises from vessels)      | Brown to dark brown relative to background; sometimes patchy whiter areas |
+| Vessels               | None, or isolated lacy vessels may be present coursing across the lesion | Brown vessels surrounding white structures                             | Has area(s) of disrupted or missing vessels                               |
+| Surface Pattern       | Dark or white spots of uniform size, or homogeneous absence of pattern   | Oval, tubular or branched white structures surrounded by brown vessels | Amorphous or absent surface pattern                                       |
+| Most likely pathology | Hyperplastic                                                             | Adenoma                                                                | Deep submucosal invasive cancer                                           |
+| Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |
