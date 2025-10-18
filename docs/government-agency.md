@@ -12,7 +12,9 @@
 * [พระราชบัญญัติที่เกี่ยวข้องกับการแพทย์](https://www.tmc.or.th/statute.php)
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
 * [National antimicrobial resistant surveillance, Thailand (NARST)](https://narst.dmsc.moph.go.th/)
-    * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram) 
+    * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram)
+* Thai Red Cross Society
+    * [บันทึกการตรวจวินิจฉัยสมองตาย](https://organdonate.redcross.or.th/assets/files/braindeath.pdf)
 
 ## International
 * [World Health Organization (WHO) guidelines](https://www.who.int/publications/i?publishingoffices=c09761c0-ab8e-4cfa-9744-99509c4d306b)
