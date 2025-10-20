@@ -298,7 +298,7 @@ Plus 3 or more minor features
 | V              | A moribund patient who is not expected to survive without the operation         |
 | VI             | A declared brain-dead patient whose organs are being removed for donor purposes |
 
-### Child-Pugh score for cirrhosis mortality
+### Child-Turcotte-Pugh score for cirrhosis mortality
 
 | Parameter         | Criteria                     | Points |
 | ----------------- | ---------------------------- | ------ |
@@ -317,6 +317,10 @@ Plus 3 or more minor features
 | Encephalopathy    | No Encephalopathy            | +1     |
 |                   | Grade 1–2                    | +2     |
 |                   | Grade 3–4                    | +3     |
+
+> Class A: 5-6 points (least severe)
+> Class B: 7-9 points (moderately severe)
+> Class C: 10-15 (most severe)
 
 ### [Milan criteria for liver transplantation](https://www.nejm.org/doi/full/10.1056/NEJM199603143341104)
 
