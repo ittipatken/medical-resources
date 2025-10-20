@@ -318,9 +318,9 @@ Plus 3 or more minor features
 |                   | Grade 1–2                    | +2     |
 |                   | Grade 3–4                    | +3     |
 
-> Class A: 5-6 points (least severe)
-> Class B: 7-9 points (moderately severe)
-> Class C: 10-15 (most severe)
+> - Class A: 5-6 points (least severe)
+> - Class B: 7-9 points (moderately severe)
+> - Class C: 10-15 (most severe)
 
 ### [Milan criteria for liver transplantation](https://www.nejm.org/doi/full/10.1056/NEJM199603143341104)
 
