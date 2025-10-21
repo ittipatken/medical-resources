@@ -329,7 +329,7 @@ Plus 3 or more minor features
 - Extra-hepatic involvement
 - Major vessel involvement
 
-### [Makuuchi's criteria for liver resection](https://onlinelibrary.wiley.com/doi/10.1002/ssu.2980090404)
+### [Expanded Makuuchi's criteria for liver resection](https://www.sciencedirect.com/science/article/pii/S1365182X19300012)
 
 ### [Barcelona-Clinic Liver Cancer (BCLC) staging classification for hepatocellular carcinoma (HCC)](https://www.sciencedirect.com/science/article/pii/S0168827821022236)
 
