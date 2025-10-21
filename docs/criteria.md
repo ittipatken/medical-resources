@@ -342,3 +342,5 @@ Plus 3 or more minor features
 | Surface Pattern       | Dark or white spots of uniform size, or homogeneous absence of pattern   | Oval, tubular or branched white structures surrounded by brown vessels | Amorphous or absent surface pattern                                       |
 | Most likely pathology | Hyperplastic                                                             | Adenoma                                                                | Deep submucosal invasive cancer                                           |
 | Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |
+
+### [Caprini score for venous thromboembolism (VTE)](https://www.sciencedirect.com/science/article/pii/S0002961009006382)
