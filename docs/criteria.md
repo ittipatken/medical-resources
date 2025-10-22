@@ -58,7 +58,9 @@
 | 5     | Loud with a thrill. So loud that it is audible with only the rim of the stethoscope touching the chest.  |
 | 6     | Loud with a palpable thrill. Audible with the stethoscope not touching the chest but lifted just off it. |
 
-### Pitting edema scale (according to Bates’ Guide to Physical Examination and History Taking, 14e)
+### Pitting edema scale
+
+*According to Bates’ Guide to Physical Examination and History Taking, 14e*
 
 | Grade | Description                                                   |
 | ----- | ------------------------------------------------------------- |
