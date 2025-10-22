@@ -58,14 +58,14 @@
 | 5     | Loud with a thrill. So loud that it is audible with only the rim of the stethoscope touching the chest.  |
 | 6     | Loud with a palpable thrill. Audible with the stethoscope not touching the chest but lifted just off it. |
 
-### Pitting edema scale
+### Pitting edema scale (according to Bates’ Guide to Physical Examination and History Taking, 14e)
 
-| Grade | Description                                      |
-| ----- | ------------------------------------------------ |
-| 1+    | < 2 mm depression that disappears rapidly        |
-| 2+    | 2-4 mm depression that rebounds in a few seconds |
-| 3+    | 4-6 mm depression that rebounds in 10-12 s       |
-| 4+    | 6-8 mm depression that rebounds in > 20 s        |
+| Grade | Description                                                   |
+| ----- | ------------------------------------------------------------- |
+| 1+    | Barely detectable impression when finger is pressed into skin |
+| 2+    | Moderate pitting, indentation subsides rapidly                |
+| 3+    | Deep pitting, indentation remains for a short time            |
+| 4+    | Very deep pitting, indentation lasts a long time              |
 
 ### Medical Research Council (MRC) scale for muscle strength
 
