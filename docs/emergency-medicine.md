@@ -10,6 +10,12 @@
 
 ## USA
 * [American Heart Association Guidelines for CPR and ECC](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines)
+    * Neonatal resuscitation
+    * Pediatric basic life support
+    * Adult basic life support
+    * Pediatric advanced life support
+    * Adult advanced life support
+    * Post-cardiac arrest care
 
 ## Europe
 * [European Resuscitation Council](https://cprguidelines.eu/)
