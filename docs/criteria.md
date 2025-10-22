@@ -343,4 +343,14 @@ Plus 3 or more minor features
 | Most likely pathology | Hyperplastic                                                             | Adenoma                                                                | Deep submucosal invasive cancer                                           |
 | Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |
 
+### [Prostate Imaging Reporting and Data System (PI-RADS)](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/PI-RADS)
+
+| Category | Description                                                               |
+| -------- | ------------------------------------------------------------------------- |
+| 1        | Very low (clinically significant cancer is highly unlikely to be present) |
+| 2        | Low (clinically significant cancer is unlikely to be present)             |
+| 3        | Intermediate (the presence of clinically significant cancer is equivocal) |
+| 4        | High (clinically significant cancer is likely to be present)              |
+| 5        | Very high (clinically significant cancer is highly likely to be present)  |
+
 ### [Caprini score for venous thromboembolism (VTE)](https://www.sciencedirect.com/science/article/pii/S0002961009006382)
