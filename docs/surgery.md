@@ -1,5 +1,9 @@
 # Surgery
 
+## Thailand
+* [The Journal of the Medical Association of Thailand (J Med Assoc Thai)](http://www.jmatonline.com/articles.php?type=6)
+    * Bariatric Surgery
+
 ## Japan
 * [Tokyo Guidelines 2018 (TG18)](https://www.jshbps.jp/modules/en/index.php?content_id=47)
     * Acute cholangitis
