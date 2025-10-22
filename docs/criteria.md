@@ -343,6 +343,16 @@ Plus 3 or more minor features
 | Most likely pathology | Hyperplastic                                                             | Adenoma                                                                | Deep submucosal invasive cancer                                           |
 | Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |
 
+### [New grading system for Gleason score](https://www.sciencedirect.com/science/article/pii/S0302283815005576)
+
+| Grade group | Gleason score | Description                                                                                                                                                                                         |
+| ----------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           | 3 + 3 = 6     | Only individual discrete well-formed glands                                                                                                                                                         |
+| 2           | 3 + 4 = 7     | Predominantly well-formed glands with lesser component of poorly formed/fused/cribriform glands                                                                                                     |
+| 3           | 4 + 3 = 7     | Predominantly poorly formed/fused/cribriform glands with lesser component of well-formed glands                                                                                                     |
+| 4           | 8             | - Only poorly formed/fused/cribriform glands<br>- Predominantly well-formed glands and lesser component lacking glands<br>- Predominantly lacking glands and lesser component of well-formed glands |
+| 5           | 9–10          | Lack of gland formation (or with necrosis) with or without poorly formed/fused/cribriform glands                                                                                                    |
+
 ### [Prostate Imaging Reporting and Data System (PI-RADS)](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/PI-RADS)
 
 | Category | Description                                                               |
