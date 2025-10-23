@@ -60,7 +60,7 @@
 
 ### Pitting edema scale
 
-*According to Bates’ Guide to Physical Examination and History Taking, 14e*
+_According to Bates’ Guide to Physical Examination and History Taking, 14e_
 
 | Grade | Description                                                   |
 | ----- | ------------------------------------------------------------- |
@@ -334,6 +334,24 @@ Plus 3 or more minor features
 ### [Expanded Makuuchi's criteria for liver resection](https://www.sciencedirect.com/science/article/pii/S1365182X19300012)
 
 ### [Barcelona-Clinic Liver Cancer (BCLC) staging classification for hepatocellular carcinoma (HCC)](https://www.sciencedirect.com/science/article/pii/S0168827821022236)
+
+### [Alvarado score for acute appendicitis](<https://www.annemergmed.com/article/S0196-0644(86)80993-3/abstract>)
+
+|             | Factor                                 | Score |
+| ----------- | -------------------------------------- | ----- |
+| Symptoms    | **M**igration                          | 1     |
+|             | **A**norexia-acetone                   | 1     |
+|             | **N**ausea-vomiting                    | 1     |
+| Signs       | **T**enderness in right lower quadrant | 2     |
+|             | **R**ebound pain                       | 1     |
+|             | **E**levation of temperature           | 1     |
+| Laboratory  | **L**eukocytosis                       | 2     |
+|             | **S**hift to the left                  | 1     |
+| Total score |                                        | 10    |
+
+> - Compatible with the diagnosis of acute appendicitis: 5-6
+> - Probable appendicitis: 7-8
+> - Very probabke appendicitis: 9-10
 
 ### [Narrow-band imaging International Colorectal Endoscopic (NICE) classification](https://www.wjgnet.com/1948-5190/full/v6/i12/600.htm)
 
