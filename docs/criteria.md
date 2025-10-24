@@ -384,3 +384,14 @@ Plus 3 or more minor features
 | 5        | Very high (clinically significant cancer is highly likely to be present)  |
 
 ### [Caprini score for venous thromboembolism (VTE)](https://www.sciencedirect.com/science/article/pii/S0002961009006382)
+
+### [Rutherford classification for acute limb ischemia](https://www.sciencedirect.com/science/article/pii/S0741521497700454)
+
+| Category              | Description/prognosis                                  | Findings                                  |                             | Doppler signals |           |     |
+| --------------------- | ------------------------------------------------------ | ----------------------------------------- | --------------------------- | --------------- | --------- | --- |
+|                       |                                                        | Sensory loss                              | Muscle weakness             | Arterial        | Venous    |
+| **I. Viable**         | Not immediately threatened                             | None                                      | None                        | Audible         | Audible   |
+| **II. Threatened**    |                                                        |                                           |                             |                 |           |
+| a. Marginally         | Salvageable if promptly treated                        | Minimal (toes) or none                    | None                        | Inaudible       | Audible   |
+| b. Immediately        | Salvageable with immediate revascularization           | More than toes, associated with rest pain | Mild, moderate              | Inaudible       | Audible   |
+| **III. Irreversible** | Major tissue loss or permanent nerve damage inevitable | Profound, anesthetic                      | Profound, paralysis (rigor) | Inaudible       | Inaudible |
