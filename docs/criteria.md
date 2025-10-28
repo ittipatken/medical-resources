@@ -355,20 +355,20 @@ Plus 3 or more minor features
 
 ### [Appendicitis inflammatory response (AIR) score](https://link.springer.com/article/10.1007/s00268-008-9649-y)
 
-| Variable                               | Finding           | Score |
-| -------------------------------------- | ----------------- | ----- |
-| Vomiting                               |                   | 1     |
-| Pain in right inferior fossa           |                   | 1     |
-| Rebound tenderness or muscular defense | Light             | 1     |
-|                                        | Medium            | 2     |
-|                                        | Strong            | 3     |
-| Body temperature                       | ≥38.5°C           | 1     |
-| Polymorphonuclear leukocytes           | 70–84%            | 1     |
-|                                        | ≥85%              | 2     |
+| Variable                               | Finding                      | Score |
+| -------------------------------------- | ---------------------------- | ----- |
+| Vomiting                               |                              | 1     |
+| Pain in right inferior fossa           |                              | 1     |
+| Rebound tenderness or muscular defense | Light                        | 1     |
+|                                        | Medium                       | 2     |
+|                                        | Strong                       | 3     |
+| Body temperature                       | ≥38.5°C                      | 1     |
+| Polymorphonuclear leukocytes           | 70–84%                       | 1     |
+|                                        | ≥85%                         | 2     |
 | WBC count                              | 10.0–14.9 × 10<sup>9</sup>/L | 1     |
 |                                        | ≥15.0 × 10<sup>9</sup>/L     | 2     |
-| CRP concentration                      | 10–49 g/L         | 1     |
-|                                        | ≥50 g/L           | 2     |
+| CRP concentration                      | 10–49 g/L                    | 1     |
+|                                        | ≥50 g/L                      | 2     |
 
 > - Sum 0–4 = Low probability. Outpatient follow-up if unaltered general condition
 > - Sum 5–8 = Indeterminate group. In-hospital active observation with rescoring/imaging or diagnostic laparoscopy according to local traditions
@@ -416,6 +416,25 @@ Plus 3 or more minor features
 | a. Marginally         | Salvageable if promptly treated                        | Minimal (toes) or none                    | None                        | Inaudible       | Audible   |
 | b. Immediately        | Salvageable with immediate revascularization           | More than toes, associated with rest pain | Mild, moderate              | Inaudible       | Audible   |
 | **III. Irreversible** | Major tissue loss or permanent nerve damage inevitable | Profound, anesthetic                      | Profound, paralysis (rigor) | Inaudible       | Inaudible |
+
+### [2020 revision of CEAP classification of chronic venous disorders](https://www.sciencedirect.com/science/article/pii/S2213333X20300639)
+
+| C class        | Description                                                                 |
+| -------------- | --------------------------------------------------------------------------- |
+| C<sub>0</sub>  | No visible or palpable signs of venous disease                              |
+| C<sub>1</sub>  | Telangiectasias or reticular veins                                          |
+| C<sub>2</sub>  | Varicose veins                                                              |
+| C<sub>2r</sub> | Recurrent varicose veins                                                    |
+| C<sub>3</sub>  | Edema                                                                       |
+| C<sub>4</sub>  | Changes in skin and subcutaneous tissue secondary to chronic venous disease |
+| C<sub>4a</sub> | Pigmentation or eczema                                                      |
+| C<sub>4b</sub> | Lipodermatosclerosis or atrophie blanche                                    |
+| C<sub>4c</sub> | Corona phlebectatica                                                        |
+| C<sub>5</sub>  | Healed                                                                      |
+| C<sub>6</sub>  | Active venous ulcer                                                         |
+| C<sub>6r</sub> | Recurrent active venous ulcer                                               |
+
+> Each clinical class subcharacterized by a subscript indicating the presence (symptomatic, _s_) or absence (asymptomatic, _a_) of symptoms attributable to venous disease
 
 ### [BI-RADS assessment categories and management](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/BI-RADS)
 
