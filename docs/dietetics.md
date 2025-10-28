@@ -1,8 +1,7 @@
 # Dietetics
 
 ## Thailand
-* Society of Parenteral and Enteral Nutrition of Thailand (SPENT)
-    * [คำแนะนำแนวทางเวชปฏิบัติโภชนบำบัดสำหรับผู้ป่วยโรคไตในผู้ใหญ่ พ.ศ. 2561](https://he02.tci-thaijo.org/index.php/ThaiJPEN/article/view/248367/168872)
+* [Society for Clinical Nutrition and Metabolism of Thailand (SPENT Nutrition)](https://www.spent.or.th/)        
 * [Dietary reference intake tables for Thais 2020](https://nutrition2.anamai.moph.go.th/th/book/194515)
 * [Dietary reference intake for Thais 2020](https://nutrition2.anamai.moph.go.th/th/dri/176096)
 * [ตารางแสดงคุณค่าทางอาหารไทย](https://nutrition2.anamai.moph.go.th/th/thai-food-composition-table)
