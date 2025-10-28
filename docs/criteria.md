@@ -395,3 +395,18 @@ Plus 3 or more minor features
 | a. Marginally         | Salvageable if promptly treated                        | Minimal (toes) or none                    | None                        | Inaudible       | Audible   |
 | b. Immediately        | Salvageable with immediate revascularization           | More than toes, associated with rest pain | Mild, moderate              | Inaudible       | Audible   |
 | **III. Irreversible** | Major tissue loss or permanent nerve damage inevitable | Profound, anesthetic                      | Profound, paralysis (rigor) | Inaudible       | Inaudible |
+
+### [BI-RADS assessment categories and management](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/BI-RADS)
+
+| Category | Assessment                                                                             | Management                                                                | Likelihood of Cancer                    |
+| -------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------- |
+| 0        | Incomplete – Need Additional Imaging Evaluation and/or Prior Mammograms for Comparison | Recall for additional imaging and/or comparison with prior examination(s) | N/A                                     |
+| 1        | Negative                                                                               | Routine mammography screening                                             | Essentially 0% likelihood of malignancy |
+| 2        | Benign                                                                                 | Routine mammography screening                                             | Essentially 0% likelihood of malignancy |
+| 3        | Probably Benign                                                                        | Short-interval (6-month) follow-up or continued surveillance mammography  | >0% but ≤2% likelihood of malignancy    |
+| 4        | Suspicious                                                                             | Tissue diagnosis                                                          | >2% but <95% likelihood of malignancy   |
+| 4A       | Low suspicion for malignancy                                                           |                                                                           | >2% to ≤10% likelihood of malignancy    |
+| 4B       | Moderate suspicion for malignancy                                                      |                                                                           | >10% to ≤50% likelihood of malignancy   |
+| 4C       | High suspicion for malignancy                                                          |                                                                           | >50% to <95% likelihood of malignancy   |
+| 5        | Highly Suggestive of Malignancy                                                        | Tissue diagnosis                                                          | ≥95% likelihood of malignancy           |
+| 6        | Known Biopsy-Proven Malignancy                                                         | Surgical excision when clinically appropriate                             | N/A                                     |
