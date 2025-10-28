@@ -351,7 +351,28 @@ Plus 3 or more minor features
 
 > - Compatible with the diagnosis of acute appendicitis: 5-6
 > - Probable appendicitis: 7-8
-> - Very probabke appendicitis: 9-10
+> - Very probable appendicitis: 9-10
+
+### [Appendicitis inflammatory response (AIR) score](https://link.springer.com/article/10.1007/s00268-008-9649-y)
+
+| Variable                               | Finding           | Score |
+| -------------------------------------- | ----------------- | ----- |
+| Vomiting                               |                   | 1     |
+| Pain in right inferior fossa           |                   | 1     |
+| Rebound tenderness or muscular defense | Light             | 1     |
+|                                        | Medium            | 2     |
+|                                        | Strong            | 3     |
+| Body temperature                       | ≥38.5°C           | 1     |
+| Polymorphonuclear leukocytes           | 70–84%            | 1     |
+|                                        | ≥85%              | 2     |
+| WBC count                              | 10.0–14.9 × 10<sup>9</sup>/L | 1     |
+|                                        | ≥15.0 × 10<sup>9</sup>/L     | 2     |
+| CRP concentration                      | 10–49 g/L         | 1     |
+|                                        | ≥50 g/L           | 2     |
+
+> - Sum 0–4 = Low probability. Outpatient follow-up if unaltered general condition
+> - Sum 5–8 = Indeterminate group. In-hospital active observation with rescoring/imaging or diagnostic laparoscopy according to local traditions
+> - Sum 9–12 = High probability. Surgical exploration is proposed
 
 ### [Narrow-band imaging International Colorectal Endoscopic (NICE) classification](https://www.wjgnet.com/1948-5190/full/v6/i12/600.htm)
 
