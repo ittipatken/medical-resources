@@ -419,20 +419,20 @@ Plus 3 or more minor features
 
 ### [2020 revision of CEAP classification of chronic venous disorders](https://www.sciencedirect.com/science/article/pii/S2213333X20300639)
 
-| C class        | Description                                                                 |
-| -------------- | --------------------------------------------------------------------------- |
-| C<sub>0</sub>  | No visible or palpable signs of venous disease                              |
-| C<sub>1</sub>  | Telangiectasias or reticular veins                                          |
-| C<sub>2</sub>  | Varicose veins                                                              |
-| C<sub>2r</sub> | Recurrent varicose veins                                                    |
-| C<sub>3</sub>  | Edema                                                                       |
-| C<sub>4</sub>  | Changes in skin and subcutaneous tissue secondary to chronic venous disease |
-| C<sub>4a</sub> | Pigmentation or eczema                                                      |
-| C<sub>4b</sub> | Lipodermatosclerosis or atrophie blanche                                    |
-| C<sub>4c</sub> | Corona phlebectatica                                                        |
-| C<sub>5</sub>  | Healed                                                                      |
-| C<sub>6</sub>  | Active venous ulcer                                                         |
-| C<sub>6r</sub> | Recurrent active venous ulcer                                               |
+| C class        | Description                                                                 | E class        | Description             | A class       | Description                            | P class         | Description                   |
+| ------------- | -------------------------------------------------------------------------- | ------------- | ---------------------- | ------------ | ------------------------------------- | -------------- | ---------------------------- |
+| C<sub>0</sub>  | No visible or palpable signs of venous disease                              | E<sub>p</sub>  | Primary                 | A<sub>s</sub> | Superficial                            | P<sub>r</sub>   | Reflux                        |
+| C<sub>1</sub>  | Telangiectasias or reticular veins                                          | E<sub>s</sub>  | Secondary               | A<sub>d</sub> | Deep                                   | P<sub>o</sub>   | Obstruction                   |
+| C<sub>2</sub>  | Varicose veins                                                              | E<sub>si</sub> | Secondary - intravenous | A<sub>p</sub> | Perforator                             | P<sub>r,o</sub> | Reflux and obstruction        |
+| C<sub>2r</sub> | Recurrent varicose veins                                                    | E<sub>se</sub> | Secondary - extravenous | A<sub>n</sub> | No venous anatomic location identified | P<sub>n</sub>   | No pathophysiology identified |
+| C<sub>3</sub>  | Edema                                                                       | E<sub>c</sub>  | Congenital              |               |                                        |                 |                               |
+| C<sub>4</sub>  | Changes in skin and subcutaneous tissue secondary to chronic venous disease | E<sub>n</sub>  | No cause identified     |               |                                        |                 |                               |
+| C<sub>4a</sub> | Pigmentation or eczema                                                      |                |                         |               |                                        |                 |                               |
+| C<sub>4b</sub> | Lipodermatosclerosis or atrophie blanche                                  |                |                         |               |                                        |                 |                               |
+| C<sub>4c</sub> | Corona phlebectatica                                                      |                |                         |               |                                        |                 |                               |
+| C<sub>5</sub>  | Healed venous ulcer                                                         |                |                         |               |                                        |                 |                               |
+| C<sub>6</sub>  | Active venous ulcer                                                         |                |                         |               |                                        |                 |                               |
+| C<sub>6r</sub> | Recurrent active venous ulcer                                               |                |                         |               |                                        |                 |                               |
 
 > Each clinical class subcharacterized by a subscript indicating the presence (symptomatic, _s_) or absence (asymptomatic, _a_) of symptoms attributable to venous disease
 
