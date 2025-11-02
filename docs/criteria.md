@@ -377,32 +377,12 @@ Plus 3 or more minor features
 ### [Narrow-band imaging International Colorectal Endoscopic (NICE) classification](https://www.wjgnet.com/1948-5190/full/v6/i12/600.htm)
 
 |                       | Type 1                                                                   | Type 2                                                                 | Type 3                                                                    |
-| --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | --- |
 | Color                 | Same or lighter than background                                          | Browner relative to background (verify color arises from vessels)      | Brown to dark brown relative to background; sometimes patchy whiter areas |
 | Vessels               | None, or isolated lacy vessels may be present coursing across the lesion | Brown vessels surrounding white structures                             | Has area(s) of disrupted or missing vessels                               |
 | Surface Pattern       | Dark or white spots of uniform size, or homogeneous absence of pattern   | Oval, tubular or branched white structures surrounded by brown vessels | Amorphous or absent surface pattern                                       |
 | Most likely pathology | Hyperplastic                                                             | Adenoma                                                                | Deep submucosal invasive cancer                                           |
-| Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |
-
-### [New grading system for Gleason score](https://www.sciencedirect.com/science/article/pii/S0302283815005576)
-
-| Grade group | Gleason score | Description                                                                                                                                                                                         |
-| ----------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1           | 3 + 3 = 6     | Only individual discrete well-formed glands                                                                                                                                                         |
-| 2           | 3 + 4 = 7     | Predominantly well-formed glands with lesser component of poorly formed/fused/cribriform glands                                                                                                     |
-| 3           | 4 + 3 = 7     | Predominantly poorly formed/fused/cribriform glands with lesser component of well-formed glands                                                                                                     |
-| 4           | 8             | - Only poorly formed/fused/cribriform glands<br>- Predominantly well-formed glands and lesser component lacking glands<br>- Predominantly lacking glands and lesser component of well-formed glands |
-| 5           | 9–10          | Lack of gland formation (or with necrosis) with or without poorly formed/fused/cribriform glands                                                                                                    |
-
-### [Prostate Imaging Reporting and Data System (PI-RADS)](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/PI-RADS)
-
-| Category | Description                                                               |
-| -------- | ------------------------------------------------------------------------- |
-| 1        | Very low (clinically significant cancer is highly unlikely to be present) |
-| 2        | Low (clinically significant cancer is unlikely to be present)             |
-| 3        | Intermediate (the presence of clinically significant cancer is equivocal) |
-| 4        | High (clinically significant cancer is likely to be present)              |
-| 5        | Very high (clinically significant cancer is highly likely to be present)  |
+| Treatment             | Follow up                                                                | Polypectomy/EMR/ESD                                                    | Surgical operation                                                        |     |
 
 ### [Caprini score for venous thromboembolism (VTE)](https://www.sciencedirect.com/science/article/pii/S0002961009006382)
 
@@ -420,7 +400,7 @@ Plus 3 or more minor features
 ### [2020 revision of CEAP classification of chronic venous disorders](https://www.sciencedirect.com/science/article/pii/S2213333X20300639)
 
 | C class        | Description                                                                 | E class        | Description             | A class       | Description                            | P class         | Description                   |
-| ------------- | -------------------------------------------------------------------------- | ------------- | ---------------------- | ------------ | ------------------------------------- | -------------- | ---------------------------- |
+| -------------- | --------------------------------------------------------------------------- | -------------- | ----------------------- | ------------- | -------------------------------------- | --------------- | ----------------------------- |
 | C<sub>0</sub>  | No visible or palpable signs of venous disease                              | E<sub>p</sub>  | Primary                 | A<sub>s</sub> | Superficial                            | P<sub>r</sub>   | Reflux                        |
 | C<sub>1</sub>  | Telangiectasias or reticular veins                                          | E<sub>s</sub>  | Secondary               | A<sub>d</sub> | Deep                                   | P<sub>o</sub>   | Obstruction                   |
 | C<sub>2</sub>  | Varicose veins                                                              | E<sub>si</sub> | Secondary - intravenous | A<sub>p</sub> | Perforator                             | P<sub>r,o</sub> | Reflux and obstruction        |
@@ -428,8 +408,8 @@ Plus 3 or more minor features
 | C<sub>3</sub>  | Edema                                                                       | E<sub>c</sub>  | Congenital              |               |                                        |                 |                               |
 | C<sub>4</sub>  | Changes in skin and subcutaneous tissue secondary to chronic venous disease | E<sub>n</sub>  | No cause identified     |               |                                        |                 |                               |
 | C<sub>4a</sub> | Pigmentation or eczema                                                      |                |                         |               |                                        |                 |                               |
-| C<sub>4b</sub> | Lipodermatosclerosis or atrophie blanche                                  |                |                         |               |                                        |                 |                               |
-| C<sub>4c</sub> | Corona phlebectatica                                                      |                |                         |               |                                        |                 |                               |
+| C<sub>4b</sub> | Lipodermatosclerosis or atrophie blanche                                    |                |                         |               |                                        |                 |                               |
+| C<sub>4c</sub> | Corona phlebectatica                                                        |                |                         |               |                                        |                 |                               |
 | C<sub>5</sub>  | Healed venous ulcer                                                         |                |                         |               |                                        |                 |                               |
 | C<sub>6</sub>  | Active venous ulcer                                                         |                |                         |               |                                        |                 |                               |
 | C<sub>6r</sub> | Recurrent active venous ulcer                                               |                |                         |               |                                        |                 |                               |
@@ -450,3 +430,35 @@ Plus 3 or more minor features
 | 4C       | High suspicion for malignancy                                                          |                                                                           | >50% to <95% likelihood of malignancy   |
 | 5        | Highly Suggestive of Malignancy                                                        | Tissue diagnosis                                                          | ≥95% likelihood of malignancy           |
 | 6        | Known Biopsy-Proven Malignancy                                                         | Surgical excision when clinically appropriate                             | N/A                                     |
+
+### [Prostate Imaging Reporting and Data System (PI-RADS)](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/PI-RADS)
+
+| Category | Description                                                               |
+| -------- | ------------------------------------------------------------------------- |
+| 1        | Very low (clinically significant cancer is highly unlikely to be present) |
+| 2        | Low (clinically significant cancer is unlikely to be present)             |
+| 3        | Intermediate (the presence of clinically significant cancer is equivocal) |
+| 4        | High (clinically significant cancer is likely to be present)              |
+| 5        | Very high (clinically significant cancer is highly likely to be present)  |
+
+### [New grading system for Gleason score](https://www.sciencedirect.com/science/article/pii/S0302283815005576)
+
+| Grade group | Gleason score | Description                                                                                                                                                                                         |
+| ----------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           | 3 + 3 = 6     | Only individual discrete well-formed glands                                                                                                                                                         |
+| 2           | 3 + 4 = 7     | Predominantly well-formed glands with lesser component of poorly formed/fused/cribriform glands                                                                                                     |
+| 3           | 4 + 3 = 7     | Predominantly poorly formed/fused/cribriform glands with lesser component of well-formed glands                                                                                                     |
+| 4           | 8             | - Only poorly formed/fused/cribriform glands<br>- Predominantly well-formed glands and lesser component lacking glands<br>- Predominantly lacking glands and lesser component of well-formed glands |
+| 5           | 9–10          | Lack of gland formation (or with necrosis) with or without poorly formed/fused/cribriform glands                                                                                                    |
+
+### [Zargar endoscopic classification of caustic injuries](<https://www.giejournal.org/article/S0016-5107(91)70678-0/abstract>)
+
+| Grade | Description                                        |
+| ----- | -------------------------------------------------- |
+| 0     | Normal mucosa                                      |
+| I     | Edema and erythema of the mucosa                   |
+| IIA   | Hemorrhage, erosions, blisters, superficial ulcers |
+| IIB   | Circumferential lesions                            |
+| IIIA  | Focal deep gray or brownish-black ulcers           |
+| IIIB  | Extensive deep gray or brownish-black ulcers       |
+| IV    | Perforation                                        |
