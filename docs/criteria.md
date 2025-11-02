@@ -152,6 +152,14 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 > - If _abdominal pain suggests strongly_ that acute pancreatitis is present, but the _serum amylase and/or lipase activity is less than 3 times the upper limit of normal_, as may be the case with delayed presentation, _imaging will be required_ to confirm the diagnosis.
 > - If the diagnosis of acute pancreatitis is established by _abdominal pain and by increases in the serum pancreatic enzyme activities_, a _CECT is not usually required_ for diagnosis in the emergency room or on admission to the hospital.
 
+### [BISAP score for pancreatitis mortality](https://gut.bmj.com/content/57/12/1698.long)
+
+- **B**UN > 25 mg/dL
+- **I**mpaired mental status (any record of disorientation, lethargy somnolence, coma, or stupor)
+- **S**IRS
+- **A**ge > 60 years
+- **P**leural effusion (on chest radiography or CT)
+
 ### [Harris–Benedict equation for basal energy expenditure (BEE/BMR)](https://www.pnas.org/doi/abs/10.1073/pnas.4.12.370)
 
 - Men BEE (kcal/day) = 66.473 + (13.7516 × weight in kg) + (5.0033 × height in cm) – (6.755 × age in years)
