@@ -459,6 +459,17 @@ Plus 3 or more minor features
 | 4           | 8             | - Only poorly formed/fused/cribriform glands<br>- Predominantly well-formed glands and lesser component lacking glands<br>- Predominantly lacking glands and lesser component of well-formed glands |
 | 5           | 9–10          | Lack of gland formation (or with necrosis) with or without poorly formed/fused/cribriform glands                                                                                                    |
 
+### 2023 Bethesda system for reporting thyroid cytopathology
+
+| Category | Description                         |
+| -------- | ----------------------------------- |
+| I        | Nondiagnostic                       |
+| II       | Benign                              |
+| III      | Atypia of undetermined significance |
+| IV       | Follicular neoplasm                 |
+| V        | Suspicious for malignancy           |
+| VI       | Malignant                           |
+
 ### [Zargar endoscopic classification of caustic injuries](<https://www.giejournal.org/article/S0016-5107(91)70678-0/abstract>)
 
 | Grade | Description                                        |
