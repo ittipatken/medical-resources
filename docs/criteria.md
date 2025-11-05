@@ -169,6 +169,10 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 ### [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
 
+### [SOFA (Sepsis-related Organ Failure Assessment) score](https://link.springer.com/article/10.1007/BF01709751)
+
+### [SOFA (Sequential Organ Failure Assessment)-2 score](https://jamanetwork.com/journals/jama/fullarticle/2840822)
+
 ## Pediatrics
 
 ### Tanner staging (Sexual Maturity Rating (SMR)) for [boys](https://adc.bmj.com/content/45/239/13) and [girls](https://adc.bmj.com/content/44/235/291)
