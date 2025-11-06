@@ -487,3 +487,5 @@ Plus 3 or more minor features
 | IIIA  | Focal deep gray or brownish-black ulcers           |
 | IIIB  | Extensive deep gray or brownish-black ulcers       |
 | IV    | Perforation                                        |
+
+### [CT classification of esophageal caustic injuries](https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0245-2)
