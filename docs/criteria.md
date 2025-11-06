@@ -173,6 +173,8 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 ### [SOFA (Sequential Organ Failure Assessment)-2 score](https://jamanetwork.com/journals/jama/fullarticle/2840822)
 
+### [Modified early warning score (MEWS) in medical admissions](https://academic.oup.com/qjmed/article/94/10/521/1558977)
+
 ## Pediatrics
 
 ### Tanner staging (Sexual Maturity Rating (SMR)) for [boys](https://adc.bmj.com/content/45/239/13) and [girls](https://adc.bmj.com/content/44/235/291)
