@@ -165,6 +165,30 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 - Men BEE (kcal/day) = 66.473 + (13.7516 × weight in kg) + (5.0033 × height in cm) – (6.755 × age in years)
 - Women BEE (kcal/day) = 655.0955 + (9.5634 × weight in kg) + (1.8496 × height in cm) – (4.6756 × age in years)
 
+### [CHA<sub>2</sub>DS<sub>2</sub>-VA score for stroke risk prediction in atrial fibrillation](https://academic.oup.com/view-large/525057216)
+
+| Component                                          | Points |
+| -------------------------------------------------- | ------ |
+| **C**hronic heart failure                          | 1      |
+| **H**ypertension                                   | 1      |
+| **A**ge 75 years or above                          | 2      |
+| **D**iabetes mellitus                              | 1      |
+| Prior **s**troke, TIA, or arterial thromboembolism | 2      |
+| **V**ascular disease                               | 1      |
+| **A**ge 65-74 years                                | 1      |
+
+### [HAS-BLED score for 1-year risk of major bleeding in patients with atrial fibrillation](<https://journal.chestnet.org/article/S0012-3692(10)60585-5/abstract>)
+
+| Clinical characteristic                          | Points |
+| ------------------------------------------------ | ------ |
+| Hypertension                                     | 1      |
+| Abnormal renal and liver function (1 point each) | 1 or 2 |
+| Stroke                                           | 1      |
+| Bleeding                                         | 1      |
+| Labile INRs                                      | 1      |
+| Elderly                                          | 1      |
+| Drugs or alcohol (1 point each)                  | 1 or 2 |
+
 ### [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
 
 ### [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
