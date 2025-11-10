@@ -191,6 +191,8 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 ### [Wells' Criteria for deep-vein thrombosis (DVT)](https://www.nejm.org/doi/10.1056/NEJMoa023153)
 
+### [Glasgow-Blatchford score (GBS) for upper gastrointestinal bleeding (UGIB)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2800%2902816-6/fulltext)
+
 ### [2023 Duke-International Society for Cardiovascular Infectious Diseases (ISCVID) criteria for infective endocarditis (IE)](https://academic.oup.com/cid/article/77/4/518/7151107)
 
 ### [SOFA (Sepsis-related Organ Failure Assessment) score](https://link.springer.com/article/10.1007/BF01709751)
