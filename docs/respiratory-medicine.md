@@ -15,5 +15,5 @@
 * [Tuberculosis control 2021](https://www.thainapci.org/2021/2021/11/30/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-pdf-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87-42/)
 
 ## International
-* [Global Initiative for Chronic Obstructive Lung Disease (GOLD) REPORT 2025](https://goldcopd.org/2025-gold-report/)
+* [Global Initiative for Chronic Obstructive Lung Disease (GOLD) REPORT 2026](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
 * [Global Initiative for Asthma (GINA) REPORT](https://ginasthma.org/reports/)
