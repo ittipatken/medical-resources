@@ -60,6 +60,7 @@ export default defineConfig({
           },
           { text: "Dermatology", link: "/dermatology" },
           { text: "Emergency Medicine", link: "/emergency-medicine" },
+          { text: "Occupational Medicine", link: "/occupational-medicine"},
           { text: "Otolaryngology", link: "/otolaryngology" },
           { text: "Pain Management", link: "/pain-management" },
           { text: "Pathology", link: "/pathology" },
