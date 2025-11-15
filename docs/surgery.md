@@ -29,3 +29,5 @@
     * Cholangiocarcinoma
     * Hepato-pancreato-biliary (HBP)
     * Cholecystitis
+* [World Society of Emergency Surgery (WSES)](https://www.wses.org.uk/scientific-resources/guidelines)
+    * Acute appendicitis
