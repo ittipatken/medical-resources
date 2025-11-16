@@ -428,8 +428,8 @@ Plus 3 or more minor features
 
 ### [Rutherford classification for acute limb ischemia](https://www.sciencedirect.com/science/article/pii/S0741521497700454)
 
-| Category              | Description/prognosis                                  | Findings                                  |                             | Doppler signals |           |     |
-| --------------------- | ------------------------------------------------------ | ----------------------------------------- | --------------------------- | --------------- | --------- | --- |
+| Category              | Description/prognosis                                  | Findings                                  |                             | Doppler signals |           |
+| --------------------- | ------------------------------------------------------ | ----------------------------------------- | --------------------------- | --------------- | --------- |
 |                       |                                                        | Sensory loss                              | Muscle weakness             | Arterial        | Venous    |
 | **I. Viable**         | Not immediately threatened                             | None                                      | None                        | Audible         | Audible   |
 | **II. Threatened**    |                                                        |                                           |                             |                 |           |
