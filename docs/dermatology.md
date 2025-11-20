@@ -17,3 +17,5 @@
     * Sunscreen usage
     * Drug eruption
     * Exfoliative dermatitis
+    * Pemphigus
+    * Onychomycosis
