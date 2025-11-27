@@ -1,9 +1,21 @@
 # Gastroenterology
 
 ## Thailand
-* [Irritable bowel syndrome (IBS)](https://www.gastrothai.net/th/guideline-detail.php?content_id=402)
-* [Gastroesophageal reflux disease (GERD)](https://www.gastrothai.net/th/guideline-detail.php?content_id=263)
-* [Chronic constipation](https://w1.med.cmu.ac.th/family/knowledge/for-doctor/guideline/4983)
+* [Thai Neurogastroenterology and Motility Society (TNMS)](https://thaimotility.or.th/practice-guideline/)
+    * Irritable bowel syndrome (IBS)
+    * Chronic constipation
+    * Gastroesophageal reflux disease (GERD)
+    * Functional dyspepsia
+* [The Gastroenterological Association of Thailand (GAT)](https://www.gastrothai.net/th/guideline.php)
+    * Irritable bowel syndrome (IBS)
+    * Dyspepsia
+    * Gastroesophageal reflux disease (GERD)
+    * Hepatitis B
+    * Hepatitis C
+    * Helicobacter pylori
+    * Hepatocellular carcinoma (HCC)
+    * Upper gastrointestinal bleeding (UGIB)
+    * Diarrhea
 * [Thai Association for the Study of the Liver (THASL)](https://thasl.org/thasl-guideline/)
     * Hepatocellular carcinoma
     * Hepatitis B
