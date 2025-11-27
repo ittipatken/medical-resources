@@ -10,16 +10,16 @@
     * Irritable bowel syndrome (IBS)
     * Dyspepsia
     * Gastroesophageal reflux disease (GERD)
-    * Hepatitis B
-    * Hepatitis C
-    * Helicobacter pylori
+    * Hepatitis B (HBV)
+    * Hepatitis C (HCV)
+    * *Helicobacter pylori*
     * Hepatocellular carcinoma (HCC)
     * Upper gastrointestinal bleeding (UGIB)
     * Diarrhea
 * [Thai Association for the Study of the Liver (THASL)](https://thasl.org/thasl-guideline/)
-    * Hepatocellular carcinoma
-    * Hepatitis B
-    * Hepatitis C
+    * Hepatocellular carcinoma (HCC)
+    * Hepatitis B (HBV)
+    * Hepatitis C (HCV)
     * Esophagogastric variceal hemorrhage (EGVH)
 
 ## International
