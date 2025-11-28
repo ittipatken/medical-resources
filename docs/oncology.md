@@ -6,4 +6,4 @@
 
 ## USA
 * [National Comprehensive Cancer Network (NCCN)](https://www.nccn.org/guidelines/category_1)
-* [MD Anderson Cancer Center clinical practice algorithms](https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-practice-algorithms.html)
+* [MD Anderson Cancer Center](https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-practice-algorithms.html)
