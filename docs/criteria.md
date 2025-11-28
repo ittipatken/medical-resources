@@ -515,3 +515,5 @@ Plus 3 or more minor features
 | IV    | Perforation                                        |
 
 ### [CT classification of esophageal caustic injuries](https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0245-2)
+
+### [Bosniak classification of cystic renal masses](https://pubs.rsna.org/doi/10.1148/radiol.2019182646)
