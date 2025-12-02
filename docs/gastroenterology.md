@@ -17,6 +17,7 @@
     * Upper gastrointestinal bleeding (UGIB)
     * Diarrhea
 * [Thai Association for the Study of the Liver (THASL)](https://thasl.org/thasl-guideline/)
+    * Alcohol-related liver disease (ARLD)
     * Hepatocellular carcinoma (HCC)
     * Hepatitis B (HBV)
     * Hepatitis C (HCV)
