@@ -524,3 +524,5 @@ Plus 3 or more minor features
 * Spleen, liver, kidney
 * Renal trauma
 * Pancreatic trauma
+
+### [Modified Bell´s staging criteria for necrotizing enterocolitis (NEC)](https://www.sciencedirect.com/science/article/pii/S0031395516349756)
