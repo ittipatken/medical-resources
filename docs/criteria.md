@@ -519,3 +519,8 @@ Plus 3 or more minor features
 ### [Bosniak classification of cystic renal masses](https://pubs.rsna.org/doi/10.1148/radiol.2019182646)
 
 ### [International Prostate Symptom Score (IPSS)](https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/IPSS.pdf)
+
+### [American Association for the Surgery of Trauma (AAST) organ injury scale](https://www.aast.org/trauma-acs-resources/trauma-tools/organ-injury-scale.html)
+* Spleen, liver, kidney
+* Renal trauma
+* Pancreatic trauma
