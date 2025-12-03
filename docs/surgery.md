@@ -4,6 +4,10 @@
 * [The Journal of the Medical Association of Thailand (J Med Assoc Thai)](http://www.jmatonline.com/articles.php?type=6)
     * Bariatric Surgery
 * [Thai Urological Association](https://www.tuanet.org/downloads/)
+* Thai Cleft Lip-Palate and Craniofacial Association
+    * [Cleft care](https://thaicleft.org/thailand_consensus_cleft_care)
+* Princess Sirindhorn Craniofacial Center
+    * [Patient referral](https://www.craniofacial.or.th/patient-refer)
 
 ## USA
 * [American Society for Gastrointestinal Endoscopy (ASGE)](https://www.asge.org/home/resources/publications/guidelines)
