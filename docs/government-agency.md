@@ -18,6 +18,9 @@
     * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram)
 * Thai Red Cross Society
     * [บันทึกการตรวจวินิจฉัยสมองตาย](https://organdonate.redcross.or.th/assets/files/braindeath.pdf)
+* [Thailand National Quitline 1600](https://www.thailandquitline.or.th/site/)
+    * [U-Quit](https://www.thailandquitline.or.th/urefer/uquit)
+    * [คู่มือเลิกบุหรี่](https://www.thailandquitline.or.th/site/services/manual)
 
 ## International
 * [World Health Organization (WHO) guidelines](https://www.who.int/publications/i?publishingoffices=c09761c0-ab8e-4cfa-9744-99509c4d306b)
