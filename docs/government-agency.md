@@ -11,6 +11,7 @@
     * [Digital Disease Surveillance](https://ddsdoe.ddc.moph.go.th/ddss/)
 * [Department of Medical Services (DMS)](https://km.dms.go.th/cat/main/CKM06)
     * [คู่มือการดูแลผู้ป่วยแบบประคับประคองและระยะท้าย (สำหรับบุคลากรทางการแพทย์)](https://www.dms.go.th/backend/Content/Content_File/Practice_guidelines/Attach/25640114130713PM_aw%20%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%AD%E0%B8%87_5.pdf)
+    * [แนวทางการตรวจสุขภาพที่จำเป็นแหละเหมาะสม ฉบับปรับปรุง 2565](https://www.dms.go.th/backend//Content/Content_File/Publication/Attach/25650201111409AM_Medical%20Examination%201-02-2022%20final.pdf)
 * [พระราชบัญญัติที่เกี่ยวข้องกับการแพทย์](https://www.tmc.or.th/statute.php)
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
 * [National antimicrobial resistant surveillance, Thailand (NARST)](https://narst.dmsc.moph.go.th/)
