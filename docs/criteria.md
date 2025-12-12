@@ -520,6 +520,17 @@ Plus 3 or more minor features
 
 ### [International Prostate Symptom Score (IPSS)](https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/IPSS.pdf)
 
+### [The new reconstructive ladder](https://journals.lww.com/plasreconsurg/fulltext/2011/01001/the_new_reconstructive_ladder__modifications_to.29.aspx)
+1. Free flap
+2. Tissue expansion
+3. Distant flaps
+4. Local flaps
+5. Dermal matrices
+6. Skin graft
+7. Negative pressure wound therapy
+8. Closure by secondary intention
+9. Primary closure
+
 ### [American Association for the Surgery of Trauma (AAST) organ injury scale](https://www.aast.org/trauma-acs-resources/trauma-tools/organ-injury-scale.html)
 * Spleen, liver, kidney
 * Renal trauma
