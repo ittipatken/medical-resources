@@ -89,8 +89,10 @@
 * [CDC's child passenger safety](https://www.cdc.gov/child-passenger-safety/site.html)
 * [Denver II](https://publications.aap.org/pediatrics/article/89/1/91/57343/The-Denver-II-A-Major-Revision-and)
 * [Drugs and Lactation Database (LactMed)](https://www.ncbi.nlm.nih.gov/books/NBK501922/)
+* [Children’s Oncology Group (COG)](https://childrensoncologygroup.org/cog-supportive-care-endorsed-guidelines)
 
 ## International
 * [The WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards/standards)
 * [Academy of Breastfeeding Medicine (ABM) protocols](https://www.bfmed.org/protocols)
 * [Fenton preterm growth chart](https://www.ucalgary.ca/resource/preterm-growth-chart/preterm-growth-chart)
+* [International Society of Paediatric Oncology (SIOP)](https://siop-online.org/cancareafrica__trashed/treatment-guidelines/)
