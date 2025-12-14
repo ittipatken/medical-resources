@@ -68,7 +68,6 @@ export default defineConfig({
           { text: "Pediatrics", link: "/pediatrics" },
           { text: "Radiology", link: "/radiology" },
           { text: "Surgery", link: "/surgery" },
-          // { text: 'Obstetrics and Gynecology', link: '/obstetrics-gynecology' },
           // { text: 'Palliative Care', link: '/palliative-care' },
         ],
       },
