@@ -33,3 +33,6 @@
 
 ## International
 * [World Health Organization (WHO) guidelines](https://www.who.int/publications/i?publishingoffices=c09761c0-ab8e-4cfa-9744-99509c4d306b)
+* International Classification of Diseases (ICD)
+    * [ICD-11](https://icd.who.int/en/)
+    * [ICD-10](https://icd.who.int/browse10/2019/en)
