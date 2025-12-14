@@ -10,7 +10,6 @@
     * Cerumen impaction
     * Sudden hearing loss
     * Meniere's disease
-    
 * [Thai Rhinologic Society (TRS)](http://www.thairhinologists.org/2017/guidelines/)
     * Epistaxis
     * Biologics for chronic rhinosinusitis
