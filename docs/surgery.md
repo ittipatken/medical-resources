@@ -12,6 +12,9 @@
 ## USA
 * [American Society for Gastrointestinal Endoscopy (ASGE)](https://www.asge.org/home/resources/publications/guidelines)
 * [American Urological Association](https://www.auanet.org/guidelines-and-quality/guidelines)
+* American Spinal Injury Association (ASIA)
+    * [International Standards for Neurological Classification of SCI (ISNCSCI) worksheet](https://asia-spinalinjury.org/international-standards-neurological-classification-sci-isncsci-worksheet/)
+    * [International Standards to document Autonomic Function following SCI (ISAFSCI)](https://asia-spinalinjury.org/international-standards-to-document-autonomic-function-following-sci-isafsci-2/)
 
 ## Europe
 * [Gallbladder polyps](https://link.springer.com/article/10.1007/s00330-021-08384-w)
