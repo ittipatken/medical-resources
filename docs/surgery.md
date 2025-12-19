@@ -21,6 +21,10 @@
 * [European Association of Urology (EUA)](https://uroweb.org/guidelines)
 * [European Association for Cardio-Thoracic Surgery (EACTS)](https://www.eacts.org/clinical-practice-guidelines/)
 
+## UK
+* [British Thoracic Society (BTS)](https://www.brit-thoracic.org.uk/quality-improvement/guidelines/)
+    * [Pleural disease](https://thorax.bmj.com/content/78/11/1143)
+
 ## Japan
 * [Tokyo Guidelines 2018 (TG18)](https://www.jshbps.jp/modules/en/index.php?content_id=47)
     * Acute cholangitis
