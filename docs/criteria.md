@@ -416,16 +416,16 @@ Plus 3 or more minor features
 
 ### [Pediatric appendicitis score (PAS)](<https://www.jpedsurg.org/article/S0022-3468(02)39793-8/abstract>)
 
-| Diagnostic indicant                              | Score |
-| ------------------------------------------------ | ----- |
-| Cough, percussion tenderness, hopping tenderness | 2     |
-| Anorexia                                         | 1     |
-| Pyrexia                                          | 1     |
-| Nausea/emesis                                    | 1     |
-| Tenderness in right lower quadrant               | 2     |
-| Leukocytosis (WBC ≥ 10,000 (10<sup>9</sup>/L))   | 1     |
-| Polymorphonuclear neutrophilia                   | 1     |
-| Migration of pain                                | 1     |
+| Diagnostic indicant                             | Score |
+| ----------------------------------------------- | ----- |
+| Cough/percussion tenderness, hopping tenderness | 2     |
+| Anorexia                                        | 1     |
+| Pyrexia                                         | 1     |
+| Nausea/emesis                                   | 1     |
+| Tenderness in right lower quadrant              | 2     |
+| Leukocytosis (WBC ≥ 10,000 (10<sup>9</sup>/L))  | 1     |
+| Polymorphonuclear neutrophilia                  | 1     |
+| Migration of pain                               | 1     |
 
 > - Score ≥ 6 is compatible with the diagnosis of appendicitis
 > - Score ≥ 7 indicates high probability of appendicitis
