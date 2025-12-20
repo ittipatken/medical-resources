@@ -414,6 +414,22 @@ Plus 3 or more minor features
 > - Sum 5–8 = Indeterminate group. In-hospital active observation with rescoring/imaging or diagnostic laparoscopy according to local traditions
 > - Sum 9–12 = High probability. Surgical exploration is proposed
 
+### [Pediatric appendicitis score (PAS)](<https://www.jpedsurg.org/article/S0022-3468(02)39793-8/abstract>)
+
+| Diagnostic indicant                              | Score |
+| ------------------------------------------------ | ----- |
+| Cough, percussion tenderness, hopping tenderness | 2     |
+| Anorexia                                         | 1     |
+| Pyrexia                                          | 1     |
+| Nausea/emesis                                    | 1     |
+| Tenderness in right lower quadrant               | 2     |
+| Leukocytosis (WBC ≥ 10,000 (10<sup>9</sup>/L))   | 1     |
+| Polymorphonuclear neutrophilia                   | 1     |
+| Migration of pain                                | 1     |
+
+> - Score ≥ 6 is compatible with the diagnosis of appendicitis
+> - Score ≥ 7 indicates high probability of appendicitis
+
 ### [Narrow-band imaging International Colorectal Endoscopic (NICE) classification](https://www.wjgnet.com/1948-5190/full/v6/i12/600.htm)
 
 |                       | Type 1                                                                   | Type 2                                                                 | Type 3                                                                    |
@@ -521,6 +537,7 @@ Plus 3 or more minor features
 ### [International Prostate Symptom Score (IPSS)](https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/IPSS.pdf)
 
 ### [The new reconstructive ladder](https://journals.lww.com/plasreconsurg/fulltext/2011/01001/the_new_reconstructive_ladder__modifications_to.29.aspx)
+
 1. Free flap
 2. Tissue expansion
 3. Distant flaps
@@ -532,17 +549,19 @@ Plus 3 or more minor features
 9. Primary closure
 
 ### [American Association for the Surgery of Trauma (AAST) organ injury scale](https://www.aast.org/trauma-acs-resources/trauma-tools/organ-injury-scale.html)
-* Spleen, liver, kidney
-* Renal trauma
-* Pancreatic trauma
+
+- Spleen, liver, kidney
+- Renal trauma
+- Pancreatic trauma
 
 ### [Modified Bell´s staging criteria for necrotizing enterocolitis (NEC)](https://www.sciencedirect.com/science/article/pii/S0031395516349756)
 
 ### [Todani classification of bile duct (choledocal) cysts](https://www.sciencedirect.com/science/article/pii/0002961077903592)
 
 ### National Emergency X-Radiography Utilization Study (NEXUS) criteria for cervical spine radiography
-* **N**eurological deficit
-* **S**pinal tenderness (midline)
-* **A**ltered mental status
-* **I**ntoxication
-* **D**istracting Injury
+
+- **N**eurological deficit
+- **S**pinal tenderness (midline)
+- **A**ltered mental status
+- **I**ntoxication
+- **D**istracting Injury
