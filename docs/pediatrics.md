@@ -20,6 +20,8 @@
 * [Developmental Surveillance and Promotion Manual (DSPM)](https://multimedia.anamai.moph.go.th/ebooks/dspm/)
 * [Developmental Assessment For Intervention Manual (DAIM)](https://multimedia.anamai.moph.go.th/ebooks/daim/)
 * [สมุดบันทึกสุขภาพ 2568](https://multimedia.anamai.moph.go.th/ebooks/maternal-and-child-health-handbook-2568/)
+* Pediatric Nutrition Association of Thailand (PedNAT)
+    * [คู่มืออาหารตามวัยสำหรับทารกและเด็กเล็ก](http://www.pednutrition.org/books/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81)
 * [Pediatric Society of Thailand](https://www.thaipediatrics.org/?p=700)
     * Adolescents with depression
     * Asthma
