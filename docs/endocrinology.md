@@ -13,7 +13,8 @@
     * Congenital thyroid deficiency
 
 ## USA
-* [Diabetes mellitus (DM)](https://professional.diabetes.org/standards-of-care)
+* American Diabetes Association (ADA)
+    * [Diabetes mellitus (DM)](https://professional.diabetes.org/standards-of-care)
 * [American Thyroid Association (ATA)](https://www.thyroid.org/professionals/ata-professional-guidelines/)
     * Anaplastic thyroid cancer
     * Thyroid disease during pregnancy and the postpartum
