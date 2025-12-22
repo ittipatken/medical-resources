@@ -565,3 +565,5 @@ Plus 3 or more minor features
 - **A**ltered mental status
 - **I**ntoxication
 - **D**istracting Injury
+
+### [Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery (SYNTAX) score](https://syntaxscore.org/calculator/start.htm)
