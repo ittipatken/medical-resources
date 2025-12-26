@@ -497,6 +497,8 @@ Plus 3 or more minor features
 | 4        | High (clinically significant cancer is likely to be present)              |
 | 5        | Very high (clinically significant cancer is highly likely to be present)  |
 
+### [Lung CT Screening Reporting and Data System (Lung-RADS)](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/Lung-RADS)
+
 ### [New grading system for Gleason score](https://www.sciencedirect.com/science/article/pii/S0302283815005576)
 
 | Grade group | Gleason score | Description                                                                                                                                                                                         |
