@@ -23,6 +23,7 @@
     * [คู่มือเลิกบุหรี่](https://www.thailandquitline.or.th/site/services/manual)
 
 ## USA
+* [Dietary guidelines for Americans](https://cdn.realfood.gov/DGA.pdf)
 * [Food and Drug Administration (FDA) Approved Drugs](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)
 * [Centers for Disease Control and Prevention (CDC) Health Topics](https://www.cdc.gov/health-topics.html)
 * Occupational Safety and Health Administration (OSHA)
