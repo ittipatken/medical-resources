@@ -8,3 +8,4 @@
 
 ## USA
 * [American College of Obstetricians and Gynecologists (ACOG)](https://www.acog.org/clinical)
+* [Society for Maternal-Fetal Medicine (SMFM)](https://publications.smfm.org/)
