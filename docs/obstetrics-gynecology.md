@@ -10,7 +10,11 @@
 ## USA
 * [American College of Obstetricians and Gynecologists (ACOG)](https://www.acog.org/clinical)
 * [American Society for Reproductive Medicine (ASRM)](https://www.asrm.org/practice-guidance/)
+* [American Society for Colposcopy and Cervical Pathology (ASCCP)](https://www.asccp.org/guidelines/)
 * [Society for Maternal-Fetal Medicine (SMFM)](https://publications.smfm.org/)
+
+## UK
+* [Royal College of Obstetricians & Gynaecologists (RCOG) Green-top](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/)
 
 ## International
 * [International Society of Ultrasound in Obstetrics and Gynecology (ISUOG)](https://www.isuog.org/clinical-resources/isuog-guidelines/practice-guidelines-english.html)
