@@ -67,6 +67,7 @@ export default defineConfig({
           { text: "Pathology", link: "/pathology" },
           { text: "Psychiatry", link: "/psychiatry" },
           { text: "Pediatrics", link: "/pediatrics" },
+          { text: "Preventive medicine", link: "/preventive-medicine" },
           { text: "Radiology", link: "/radiology" },
           { text: "Surgery", link: "/surgery" },
           // { text: 'Palliative Care', link: '/palliative-care' },
