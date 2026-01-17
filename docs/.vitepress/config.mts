@@ -46,6 +46,7 @@ export default defineConfig({
             items: [
               { text: "Allergy and Immunology", link: "/allergy-immunology" },
               { text: "Cardiology", link: "/cardiology" },
+              { text: "Critical Care", link: "/critical-care" },
               { text: "Endocrinology", link: "/endocrinology" },
               { text: "Gastroenterology", link: "/gastroenterology" },
               { text: "Hematology", link: "/hematology" },
