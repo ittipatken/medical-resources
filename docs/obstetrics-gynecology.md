@@ -12,6 +12,7 @@
 * [American Society for Reproductive Medicine (ASRM)](https://www.asrm.org/practice-guidance/)
 * [American Society for Colposcopy and Cervical Pathology (ASCCP)](https://www.asccp.org/guidelines/)
 * [Society for Maternal-Fetal Medicine (SMFM)](https://publications.smfm.org/)
+* [CDC contraceptive guidance for health care providers](https://www.cdc.gov/contraception/hcp/contraceptive-guidance/index.html)
 
 ## UK
 * [Royal College of Obstetricians & Gynaecologists (RCOG) Green-top](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/)
