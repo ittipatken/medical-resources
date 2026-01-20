@@ -295,6 +295,22 @@ Definition of diagnosis of acute pancreatitis requires two of the following thre
 
 Plus 3 or more minor features
 
+### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
+
+| Category                          | Score of 0                 | Score of 1                      | Score of 2                                               |
+| --------------------------------- | -------------------------- | ------------------------------- | -------------------------------------------------------- |
+| **Appearance** (skin color)       | Blue/pale                  | Blue at extremities, pink body  | All pink                                                 |
+| **Pulse**                         | Absent                     | < 100 bpm                       | ≥ 100 bpm                                                |
+| **Grimace** (reflex irritability) | No response to stimulation | Minimal response to stimulation | Prompt response to stimulation                           |
+| **Activity** (muscle tone)        | Absent                     | Some extremity flexion          | Spontaneously flexed arms and legs that resist extension |
+| **Respiratory effort**            | Absent                     | Slow and irregular              | Breathed and cried lustily                               |
+
+> ICD-11 classification
+>
+> - Severe: 0-3
+> - Mild and moderate: 4-7
+> - Normal: > 7
+
 ### [10 warning signs of primary immunodeficiency](https://info4pi.org/library/educational-materials/)
 
 ### [Neonatal early-onset sepsis calculator](https://neonatalsepsiscalculator.kaiserpermanente.org)
@@ -311,21 +327,7 @@ Plus 3 or more minor features
 
 ## OB/GYN
 
-### [Apgar score](https://journals.lww.com/anesthesia-analgesia/citation/1953/07000/a_proposal_for_a_new_method_of_evaluation_of_the.6.aspx)
-
-| Category                          | Score of 0                 | Score of 1                      | Score of 2                                               |
-| --------------------------------- | -------------------------- | ------------------------------- | -------------------------------------------------------- |
-| **Appearance** (skin color)       | Blue/pale                  | Blue at extremities, pink body  | All pink                                                 |
-| **Pulse**                         | Absent                     | < 100 bpm                       | ≥ 100 bpm                                                |
-| **Grimace** (reflex irritability) | No response to stimulation | Minimal response to stimulation | Prompt response to stimulation                           |
-| **Activity** (muscle tone)        | Absent                     | Some extremity flexion          | Spontaneously flexed arms and legs that resist extension |
-| **Respiratory effort**            | Absent                     | Slow and irregular              | Breathed and cried lustily                               |
-
-> ICD-11 classification
->
-> - Severe: 0-3
-> - Mild and moderate: 4-7
-> - Normal: > 7
+## [Modified World Health Organization (mWHO) 2.0 classification of maternal cardiovascular risk](https://academic.oup.com/view-large/545704242)
 
 ## Surgery
 
