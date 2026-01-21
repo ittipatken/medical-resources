@@ -16,6 +16,9 @@
     * [Contraceptive guidance for health care providers](https://www.cdc.gov/contraception/hcp/contraceptive-guidance/index.html)
     * [Sexually transmitted infections (STI) treatment](https://www.cdc.gov/std/treatment-guidelines/default.htm)
 
+## Europe
+* [European Society of Human Reproduction and Embryology (ESHRE)](https://www.eshre.eu/Guidelines-and-Legal)
+
 ## UK
 * [Royal College of Obstetricians & Gynaecologists (RCOG) Green-top](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/)
 
