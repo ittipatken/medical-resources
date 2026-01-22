@@ -327,6 +327,15 @@ Plus 3 or more minor features
 
 ## OB/GYN
 
+### Amsel's criteria for bacterial vaginosis (BV)
+
+Requires at least 3 of the following 4 symptoms or signs:
+
+- Homogeneous, thin discharge (milklike consistency) that smoothly coats the vaginal walls
+- Clue cells (e.g., vaginal epithelial cells studded with adherent bacteria) on microscopic examination
+- pH of vaginal fluid > 4.5
+- A fishy odor of vaginal discharge before or after addition of 10% KOH (i.e., the whiff test)
+
 ### [Modified World Health Organization (mWHO) 2.0 classification of maternal cardiovascular risk](https://academic.oup.com/view-large/545704242)
 
 ### [Fracture Risk Assessment Tool (FRAX)](https://www.fraxplus.org/calculation-tool)
