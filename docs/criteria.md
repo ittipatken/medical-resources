@@ -329,6 +329,8 @@ Plus 3 or more minor features
 
 ### [Modified World Health Organization (mWHO) 2.0 classification of maternal cardiovascular risk](https://academic.oup.com/view-large/545704242)
 
+### [Fracture Risk Assessment Tool (FRAX)](https://www.fraxplus.org/calculation-tool)
+
 ## Surgery
 
 ### [American Society of Anesthesiologists (ASA) physical status classification system](https://www.asahq.org/standards-and-practice-parameters/statement-on-asa-physical-status-classification-system)
