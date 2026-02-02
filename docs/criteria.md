@@ -582,3 +582,12 @@ Requires at least 3 of the following 4 symptoms or signs:
 - **D**istracting Injury
 
 ### [Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery (SYNTAX) score](https://syntaxscore.org/calculator/start.htm)
+
+### [Revised ICG–HNPCC criteria (Amsterdam criteria II)](https://www.gastrojournal.org/article/S0016-5085(99)70510-X/fulltext)
+
+There should be at least 3 relatives with an HNPCC-associated cancer (colorectal cancer, cancer of the endometrium, small bowel, ureter, or renal pelvis)
+- One should be a first-degree relative of the other 2
+- At least 2 successive generations should be affected
+- At least 1 should be diagnosed before age 50
+- Familial adenomatous polyposis should be excluded in the CRC case(s) if any
+- Tumors should be verified by pathological examination
