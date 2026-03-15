@@ -24,3 +24,6 @@
     * Osteoarthritis
     * Psoriatic arthritis
     * Vasculitis
+
+## Europe
+* [European Alliance of Associations for Rheumatology (EULAR)](https://www.eular.org/recommendations-home)
