@@ -23,3 +23,4 @@
     * Sickle cell disease (SCD)
     * Venous thromboembolism (VTE)
     * Von Willebrand disease (VWD)
+* [Association for the Advancement of Blood & Biotherapies (AABB)](https://www.aabb.org/news-resources/resources/clinical-practice-resources)
