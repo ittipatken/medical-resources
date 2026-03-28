@@ -41,6 +41,7 @@ export default defineConfig({
       {
         text: "Guidelines",
         items: [
+          { text: "Anesthesiology", link: "/anesthesiology" },
           {
             text: "Internal Medicine",
             items: [
