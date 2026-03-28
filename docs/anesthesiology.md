@@ -1,6 +1,7 @@
 # Pain Management
 
 ## Thailand
+* [Royal College of Anesthesiologists of Thailand (RCAT)](https://www.rcat.org/cpgs)
 * Thai Association for the Study of Pain (TASP)
     * [Acute pain](https://www.tasp.or.th/cpg/acute.php)
     * [Cancer pain](https://www.tasp.or.th/cpg/cancer.php)
