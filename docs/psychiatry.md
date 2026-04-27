@@ -2,6 +2,7 @@
 
 ## Thailand
 * [Major Depressive Disorder](https://www.thaidepression.com/www/news54/CPG-MDD-GP.pdf)
+* [Alcohol Use Disorders Identification Test (AUDIT)](https://auditscreen.org/cmsb/uploads/audit-thai.pdf)
 
 ## USA
 * Diagnostic and Statistical Manual of Mental Disorders (DSM)
