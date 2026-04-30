@@ -4,6 +4,7 @@
 * [Major Depressive Disorder](https://www.thaidepression.com/www/news54/CPG-MDD-GP.pdf)
 * [Alcohol, Smoking and Substance Involvement Screening Test (ASSIST)](https://ddc.moph.go.th/uploads/publish/1767620260107132503.pdf)
 * [Alcohol Use Disorders Identification Test (AUDIT)](https://auditscreen.org/cmsb/uploads/audit-thai.pdf)
+* [Thai Geriatric Depression Scale (TGDS-15)](https://web.stanford.edu/~yesavage/TGDS.pdf)
 
 ## USA
 * Diagnostic and Statistical Manual of Mental Disorders (DSM)
