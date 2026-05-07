@@ -16,6 +16,7 @@
 * [คําประกาศสิทธิและข้อพึงปฏิบัติของผู้ป่วย](https://www.tmc.or.th/privilege.php)
 * [National antimicrobial resistant surveillance, Thailand (NARST)](https://narst.dmsc.moph.go.th/)
     * [Antibiogram](https://narst.dmsc.moph.go.th/antibiogram)
+* [คู่มือการวินิจฉัยและตรวจประเมินความพิการ 2568](https://www.dep.go.th/th/law-academic/rules-regulations-restrictions/announcement/dep-12)
 * Thai Red Cross Society
     * [บันทึกการตรวจวินิจฉัยสมองตาย](https://organdonate.redcross.or.th/assets/files/braindeath.pdf)
 * [Thailand National Quitline 1600](https://www.thailandquitline.or.th/site/)
