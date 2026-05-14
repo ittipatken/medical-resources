@@ -3,6 +3,7 @@
 ## Thailand
 * [Major Depressive Disorder](https://www.thaidepression.com/www/news54/CPG-MDD-GP.pdf)
 * [Thai Mental State Examination (TMSE)](http://www.rbpho.moph.go.th/upload-file/doc/files/12012023-110743-1739.pdf)
+* [Mini Mental State Examination (MMSE-Thai)](http://www.rbpho.moph.go.th/upload-file/doc/files/12012023-110644-8561.pdf)
 * [Alcohol, Smoking and Substance Involvement Screening Test (ASSIST)](https://ddc.moph.go.th/uploads/publish/1767620260107132503.pdf)
 * [Alcohol Use Disorders Identification Test (AUDIT)](https://auditscreen.org/cmsb/uploads/audit-thai.pdf)
 * [Thai Geriatric Depression Scale (TGDS-15)](https://web.stanford.edu/~yesavage/TGDS.pdf)
