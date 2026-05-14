@@ -2,6 +2,7 @@
 
 ## Thailand
 * [Major Depressive Disorder](https://www.thaidepression.com/www/news54/CPG-MDD-GP.pdf)
+* [Patient Health Questionnaire-9 (PHQ-9)](https://catalog.dmh.go.th/dataset/phq9/resource/2cc4ad0e-f33e-446a-82f0-92b3808c7d09)
 * [Thai Mental State Examination (TMSE)](http://www.rbpho.moph.go.th/upload-file/doc/files/12012023-110743-1739.pdf)
 * [Mini Mental State Examination (MMSE-Thai)](http://www.rbpho.moph.go.th/upload-file/doc/files/12012023-110644-8561.pdf)
 * [Alcohol, Smoking and Substance Involvement Screening Test (ASSIST)](https://ddc.moph.go.th/uploads/publish/1767620260107132503.pdf)
