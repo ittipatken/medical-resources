@@ -22,6 +22,8 @@
 * [Thailand National Quitline 1600](https://www.thailandquitline.or.th/site/)
     * [U-Quit](https://www.thailandquitline.or.th/urefer/uquit)
     * [คู่มือเลิกบุหรี่](https://www.thailandquitline.or.th/site/services/manual)
+* [ศูนย์ช่วยเหลือสังคม สายด่วน 1300](https://1300thailand.m-society.go.th)
+* [มูลนิธิสายเด็ก 1387](https://www.childlinethailand.org/th/)
 
 ## USA
 * [Dietary guidelines for Americans](https://cdn.realfood.gov/DGA.pdf)
