@@ -18,3 +18,6 @@
 ## Europe
 * [European Society of Regional Anaesthesia & Pain Therapy (ESRA)](https://esraeurope.org/guidelines/)
     * [Procedure specific postoperative pain management (prospect)](https://esraeurope.org/prospect/)
+ 
+## UK
+* [Difficult Airway Society (DAS)](https://das.uk.com/guidelines/)
