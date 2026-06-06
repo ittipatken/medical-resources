@@ -25,3 +25,6 @@
     * thyroid nodules and differentiated thyroid cancer
     * Medullary thyroid carcinoma
     * Hypothyroidism
+
+## Europe
+* [European Association for the Study of Obesity (EASO)](https://easo.org/education/guidelines/)
