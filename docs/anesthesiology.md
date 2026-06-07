@@ -22,3 +22,4 @@
  
 ## UK
 * [Difficult Airway Society (DAS)](https://das.uk.com/guidelines/)
+* [Association of Anaesthetists (Great Britain & Ireland) (AAGBI)](https://anaesthetists.org/Guidelines-and-publications/Guidelines)
