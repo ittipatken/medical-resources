@@ -8,6 +8,7 @@
     * [Carbohydrate counting for health and diabetes control](https://www.dmthai.org/new/index.php/sara-khwam-ru/sahrab-bukhkhl-thawpi/diabetes-book/601-2018-03-07-10-38-18)
     * [Diabetes mellitus (DM) remission](https://www.dmthai.org/new/index.php/activities-and-news/dm-remission/dm-remission-media-manual-innovation/dmr-book-20250918)
 * [แนวทางในการวินิจฉัยและรักษาโรคอ้วน พ.ศ. 2568](https://drive.google.com/file/d/125lQcXkv_QkEdcOJPnR819lQZQ6sck55/view?usp=drivesdk)
+* [Thai Osteoporosis Foundation (TOPF)](https://topf.or.th/guidelines/)
 * [Thai Society for Pediatric Endocrinology](https://thaipedendo.org/management-guidelines/)
     * Diabetes mellitus (DM)
     * Diabetic ketoacidosis (DKA)
