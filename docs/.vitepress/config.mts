@@ -64,6 +64,7 @@ export default defineConfig({
           { text: "Emergency Medicine", link: "/emergency-medicine" },
           { text: 'Obstetrics and Gynecology', link: '/obstetrics-gynecology' },
           { text: "Occupational Medicine", link: "/occupational-medicine" },
+          { text: "Orthopedics", link: "/orthopedics"},
           { text: "Otolaryngology", link: "/otolaryngology" },
           { text: "Pathology", link: "/pathology" },
           { text: "Psychiatry", link: "/psychiatry" },
