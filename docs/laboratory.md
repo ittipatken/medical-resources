@@ -8,3 +8,4 @@
         * Rational Laboratory Use (RLU)
         * คู่มือปฏิบัติงานวิทยาศาสตร์การบริการโลหิต
 * [Center for Medical Diagnostic Laboratories MDCU, KCMH](https://cmdl.md.chula.ac.th/)
+* [Forum for Ethical Review Committees in Thailand (FERCIT)](https://www.fercit.org/)
