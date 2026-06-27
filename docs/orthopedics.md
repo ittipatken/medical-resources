@@ -5,5 +5,6 @@
 
 ## International
 * [AO Surgery Reference](https://surgeryreference.aofoundation.org/)
+* [Orthopaedic Trauma Association (OTA)](https://education.ota.org/evidence-based-medicine-resource-list)
 * [Fracture Risk Assessment Tool (FRAX)](https://www.fraxplus.org/calculation-tool)
 * [QFracture](https://qfracture.org/)
