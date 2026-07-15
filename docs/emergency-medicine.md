@@ -16,6 +16,7 @@
     * Pediatric advanced life support
     * Adult advanced life support
     * Post-cardiac arrest care
+* [American College of Emergency Physicians (ACEP)](https://www.acep.org/patient-care/clinical-policies)
 
 ## Europe
 * [European Resuscitation Council](https://cprguidelines.eu/)
